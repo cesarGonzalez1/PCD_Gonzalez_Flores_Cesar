@@ -1,64 +1,67 @@
 import sys
+import csv
+import io
 
 def main():
+    raw_data = sys.stdin.buffer.read()
+    
+    if not raw_data:
+        return
+
+    try:
+        if b'\x00' in raw_data:
+            contenido = raw_data.decode('utf-16')
+        else:
+            contenido = raw_data.decode('utf-8-sig')
+    except UnicodeDecodeError:
+        contenido = raw_data.decode('latin-1')
+
+    f = io.StringIO(contenido.strip())
+    reader = csv.reader(f)
     
     productos = {}
-    primera_linea = True
+    
+    try:
+        next(reader)
+    except StopIteration:
+        return
 
-    for linea in sys.stdin:
-        linea = linea.strip()
-
-        if primera_linea:
-            primera_linea = False
+    for fila in reader:
+        fila = [col.strip() for col in fila if col.strip()]
+        
+        if len(fila) < 4:
             continue
-
-        if not linea:
-            continue
-
-        partes = linea.split(',')
-        if len(partes) != 4:
-            continue
-
-        nombre_prod = partes[1]
 
         try:
-            cant = int(partes[2])
-            valor = float(partes[3])
-        except:
+            nombre_prod = fila[1]
+            cant = int(fila[2])
+            valor = float(fila[3])
+            
+            if nombre_prod not in productos:
+                productos[nombre_prod] = {"u": 0, "i": 0.0}
+            
+            productos[nombre_prod]["u"] += cant
+            productos[nombre_prod]["i"] += (cant * valor)
+            
+        except (ValueError, IndexError):
             continue
 
-        info = productos.get(nombre_prod)
-        if info is None:
-            productos[nombre_prod] = {
-                "unidades": cant,
-                "ingreso": cant * valor
-            }
-        else:
-            info["unidades"] = info["unidades"] + cant
-            info["ingreso"] = info["ingreso"] + (cant * valor)
+    print("producto,unidades_vendidas,income_total,precio_promedio")
+    
+    if not productos:
+        return
 
-    for clave, info in productos.items():
-        total_u = info["unidades"]
-        total_ing = info["ingreso"]
+    resultados = []
+    for nombre, datos in productos.items():
+        u = datos["u"]
+        ing = datos["i"]
+        prom = ing / u if u > 0 else 0
+        resultados.append((nombre, u, ing, prom))
 
-        info["promedio"] = (total_ing / total_u) if total_u != 0 else 0
+    resultados.sort(key=lambda x: x[2], reverse=True)
 
-    lista_ordenada = sorted(
-        productos.items(),
-        key=lambda elemento: elemento[1]["ingreso"],
-        reverse=True
-    )
-
-    encabezado = "producto,unidades_vendidas,ingreso_total,precio_promedio"
-    print(encabezado)
-
-    for prod, info in lista_ordenada:
-        unidades = info["unidades"]
-        ingreso = info["ingreso"]
-        promedio = info["promedio"]
-
-        print(f"{prod},{unidades},{ingreso:.2f},{promedio:.2f}")
-
+    for nombre, u, ing, prom in resultados:
+        print(f"{nombre},{u},{ing:.2f},{prom:.2f}")
 
 if __name__ == "__main__":
     main()
