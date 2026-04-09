@@ -33,3 +33,61 @@ def es_booleano(valor):
     """Verifica si un valor es booleano."""
     v = str(valor).strip().lower()
     return v in ['true', 'false', 'yes', 'no', 'si', '1', '0', 't', 'f']
+def inferir_tipo(valores):
+    """Infiere el tipo de una columna."""
+    valores_validos = [v for v in valores if not es_valor_nulo(v)]
+    
+    if not valores_validos:
+        return "texto"
+        
+    total = len(valores_validos)
+    umbral = 0.8
+    
+    num_fechas = sum(1 for v in valores_validos if es_fecha(v))
+    num_booleanos = sum(1 for v in valores_validos if es_booleano(v))
+    num_numericos = sum(1 for v in valores_validos if es_numerico(v))
+    
+    if num_fechas / total >= umbral:
+        return "fecha"
+    elif num_booleanos / total >= umbral:
+        return "booleano"
+    elif num_numericos / total >= umbral:
+        return "numerico"
+    else:
+        return "texto"
+
+def perfilar_columna(nombre, valores):
+    """Genera el perfil de una columna."""
+    total = len(valores)
+    nulos = sum(1 for v in valores if es_valor_nulo(v))
+    valores_no_nulos = [v for v in valores if not es_valor_nulo(v)]
+    unicos = len(set(valores_no_nulos))
+    ejemplo = valores_no_nulos[0] if valores_no_nulos else ""
+    tipo = inferir_tipo(valores)
+    
+    pct_nulos = round(nulos / total * 100, 2) if total > 0 else 0.00
+    pct_unicos = round(unicos / total * 100, 2) if total > 0 else 0.00
+    
+    return {
+        "nombre_columna": nombre,
+        "tipo_inferido": tipo,
+        "total_registros": total,
+        "valores_nulos": nulos,
+        "porcentaje_nulos": pct_nulos,
+        "valores_unicos": unicos,
+        "porcentaje_unicos": pct_unicos,
+        "ejemplo_valor": ejemplo
+    }
+
+def leer_csv(ruta):
+    """Lee un archivo CSV y retorna encabezados y filas."""
+    with open(ruta, 'r', encoding='utf-8') as f:
+        lineas = f.readlines()
+        
+    if not lineas:
+        return [], []
+        
+    encabezados = lineas[0].strip().split(',')
+    filas = [linea.strip().split(',') for linea in lineas[1:] if linea.strip()]
+    
+    return encabezados, filas
