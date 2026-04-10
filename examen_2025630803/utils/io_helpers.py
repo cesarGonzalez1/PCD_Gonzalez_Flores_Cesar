@@ -17,3 +17,16 @@ def leer_csv(ruta):
         print(f"Error inesperado al leer: {e}")
         
     return filas
+
+def escribir_csv(ruta, datos):
+    directorio = os.path.dirname(ruta)
+    if directorio and not os.path.exists(directorio):
+        os.makedirs(directorio)
+    try:
+        with open(ruta, 'w', encoding='utf-8') as f:
+            for fila in datos:
+              
+                linea = ",".join(str(elemento) for elemento in fila)
+                f.write(linea + "\n")
+    except Exception as e:
+        print(f"Error al escribir el reporte en {ruta}: {e}")
