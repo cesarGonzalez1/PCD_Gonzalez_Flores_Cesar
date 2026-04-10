@@ -1,0 +1,12 @@
+variante=meteorologia
+matricula=2025630803
+decimales=1
+n_registros_validos=913
+n_grupos=8
+hash_datos=dd0ab13e24b5e67bb40958bb6667645de61e6e62cf0106e7daf549948b2150bc
+archivo_datos=lecturas_presion.csv
+clase_0=Muy baja,None,997.18
+clase_1=Baja,997.18,1010.35
+clase_2=Normal,1010.35,1021.13
+clase_3=Alta,1021.13,1031.97
+clase_4=Muy alta,1031.97,None

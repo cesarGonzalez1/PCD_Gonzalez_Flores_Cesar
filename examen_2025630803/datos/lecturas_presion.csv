@@ -1,0 +1,1001 @@
+id_lectura,estacion,presion,unidad,temporada
+LEC-0001,Est. Sierra,30.8,inHg,Verano
+LEC-0002,Est. Centro,971.5,?,Canícula
+LEC-0003,Est. Planicie,1007.61,hPa,Otoño
+LEC-0004,Est. Sur,1003.81,hPa,Transición Primavera-Verano
+LEC-0005,Est. Planicie,30.42,inHg,Primavera
+LEC-0006,Est. Poniente,30.99,inHg,Temporada de lluvias
+LEC-0007,Est. Manglar,1004.81,hPa,Invierno
+LEC-0008,Est. Desierto,30.55,inHg,Transición Otoño-Invierno
+LEC-0009,Est. Bosque,969.24,hPa,Transición Otoño-Invierno
+LEC-0010,Est. Península,1019.91,hPa,Transición Otoño-Invierno
+LEC-0011,Est. Poniente,30.64,inHg,Verano
+LEC-0012,Est. Poniente,1010.77,hPa,Temporada de lluvias
+LEC-0013,Est. Altiplano,1024.97,hPa,Verano
+LEC-0014,Est. Pradera,28.62,inHg,Transición Otoño-Invierno
+LEC-0015,Est. Bosque,30.07,inHg,Temporada de lluvias
+LEC-0016,Est. Meseta,29.18,inHg,Primavera
+LEC-0017,Est. Cañón,1046.24,hPa,Verano
+LEC-0018,Est. Península,29.63,inHg,Transición Primavera-Verano,dato_extra,59
+LEC-0019,Est. Pradera,28.85,inHg,Temporada de lluvias
+LEC-0020,Est. Norte,28.85,inHg,Primavera
+LEC-0021,Est. Desierto,30.59,inHg,Primavera
+LEC-0022,Est. Sur,30.3,inHg,Verano
+LEC-0023,Est. Costa,30.28,inHg,Invierno
+LEC-0024,Est. Meseta,1011.85,hPa,Canícula
+LEC-0025,Est. Selva,1048.9,hPa,Invierno
+LEC-0026,Est. Selva,994.16,hPa,Primavera
+LEC-0027,Est. Manglar,30.08,inHg,Canícula
+LEC-0028,Est. Cañón,1005.71,hPa,Transición Otoño-Invierno
+LEC-0029,Est. Laguna,29.69,inHg,Primavera
+LEC-0030,Est. Valle,28.85,inHg,Canícula
+LEC-0031,Est. Sierra,988.54,hPa,Transición Primavera-Verano
+LEC-0032,Est. Altiplano,975.64,hPa,Transición Primavera-Verano
+LEC-0033,Est. Meseta,29.15,inHg,Invierno
+LEC-0034,Est. Meseta,29.21,inHg,Primavera
+LEC-0035,Est. Montaña,966.46,hPa,Verano
+LEC-0036,Est. Bosque,999.9,hPa,Transición Primavera-Verano
+LEC-0037,Est. Manglar,30.58,inHg,Verano
+LEC-0038,Est. Altiplano,1003.53,hPa,Primavera
+LEC-0039,Est. Manglar,29.07,inHg,Transición Primavera-Verano
+LEC-0040,Est. Península,30.0,inHg,Invierno
+LEC-0041,Est. Selva,28.55,inHg,Verano
+LEC-0042,Est. Istmo,29.92,inHg,Canícula
+LEC-0043,Est. Valle,1047.06,hPa,Transición Otoño-Invierno
+LEC-0044,Est. Centro,1039.57,hPa,Verano
+LEC-0045,Est. Cañón,1023.28,hPa,Verano
+LEC-0046,Est. Meseta,994.27,hPa,Transición Otoño-Invierno
+LEC-0047,Est. Bahía,1012.9,hPa,Transición Otoño-Invierno
+LEC-0048,Est. Cañón,28.84,inHg,Invierno
+LEC-0049,Est. Selva,29.55,inHg,Transición Otoño-Invierno
+LEC-0050,Est. Montaña,1042.01,hPa,Temporada de lluvias
+LEC-0051,Est. Meseta,30.23,inHg,Canícula
+LEC-0052,Est. Río,30.65,inHg,Primavera
+LEC-0053,Est. Volcán,1004.6,hPa,Transición Primavera-Verano
+LEC-0054,Est. Bosque,29.22,inHg,Otoño
+LEC-0055,Est. Altiplano,30.17,inHg,Transición Otoño-Invierno
+LEC-0056,Est. Bahía,28.91,inHg,Otoño
+LEC-0057,Est. Istmo,29.4,inHg,Primavera
+LEC-0058,Est. Costa,993.12,hPa,Verano
+LEC-0059,Est. Sur,988.02,hPa,Temporada de lluvias
+LEC-0060,Est. Bahía,30.34,inHg,Transición Otoño-Invierno
+LEC-0061,Est. Sierra,30.83,inHg,Invierno
+LEC-0062,Est. Laguna,30.0,inHg,Transición Otoño-Invierno
+LEC-0063,Est. Manglar,1024.23,hPa,Primavera
+LEC-0064,Est. Cañón,1014.83,hPa,Canícula
+LEC-0065,Est. Istmo,1039.35,hPa,Transición Otoño-Invierno
+LEC-0066,Est. Costa,1017.59,hPa,Verano
+LEC-0067,Est. Planicie,error,hPa,Primavera
+LEC-0068,Est. Desierto,29.61,inHg,Transición Otoño-Invierno
+LEC-0069,Est. Río,970.25,hPa,Otoño
+LEC-0070,Est. Centro,965.44,hPa,Invierno
+LEC-0071,Est. Oriente,1042.99,hPa,Transición Otoño-Invierno
+LEC-0072,Est. Sur,30.49,inHg,Transición Otoño-Invierno
+LEC-0073,Est. Meseta,980.49,hPa,Transición Otoño-Invierno
+LEC-0074,Est. Río,1029.1,hPa,Otoño
+LEC-0075,Est. Río,30.31,inHg,Otoño
+LEC-0076,Est. Bosque,29.56,inHg,Transición Otoño-Invierno
+LEC-0077,Est. Poniente,1008.95,hPa,Verano
+LEC-0078,Est. Río,1000.98,hPa,Verano
+LEC-0079,Est. Bosque,#REF!,inHg,Verano
+LEC-0080,Est. Pradera,29.37,inHg,Canícula
+LEC-0081,Est. Cañón,975.37,hPa,Temporada de lluvias
+LEC-0082,Est. Manglar,968.27,hPa,Canícula
+LEC-0083,Est. Selva,1030.77,hPa,Verano,dato_extra,3
+LEC-0084,Est. Montaña,29.48,inHg,Verano
+LEC-0085,Est. Manglar,1001.03,hPa,Canícula
+LEC-0086,Est. Meseta,1008.69,hPa,Transición Otoño-Invierno
+LEC-0087,Est. Montaña,30.53,inHg,Verano
+
+LEC-0089,Est. Altiplano
+LEC-0090,Est. Costa,1023.59,hPa,Transición Otoño-Invierno
+LEC-0091,Est. Oriente,1006.39,hPa,Temporada de lluvias
+LEC-0092,Est. Península,979.96,hPa,Canícula
+LEC-0093,Est. Costa,30.73,inHg,Transición Primavera-Verano
+LEC-0094,Est. Montaña,987.53,hPa,Otoño
+LEC-0095,Est. Cañón,28.81,K,Canícula
+LEC-0096,Est. Península,989.35,hPa,Invierno
+LEC-0097,Est. Río,28.55,inHg,Transición Otoño-Invierno
+LEC-0098,Est. Volcán,977.68,hPa,Canícula
+LEC-0099,Est. Río,30.18,inHg,Canícula
+LEC-0100,Est. Volcán,991.38,hPa,Temporada de lluvias
+LEC-0101,Est. Centro,1015.36,hPa,Transición Primavera-Verano
+LEC-0102,Est. Oriente,28.52,inHg,Temporada de lluvias,dato_extra,28
+LEC-0103,Est. Laguna,996.16,hPa,Temporada de lluvias
+LEC-0104,Est. Valle,1026.49,hPa,Transición Primavera-Verano
+LEC-0105,Est. Valle,30.47,inHg,Invierno
+LEC-0106,Est. Valle,--,inHg,Transición Otoño-Invierno
+LEC-0107,Est. Selva,29.51,inHg,Transición Primavera-Verano
+LEC-0108,Est. Poniente,28.91,inHg,Verano
+LEC-0109,Est. Bosque,29.81,inHg,Primavera
+LEC-0110,Est. Istmo,29.91,inHg,Otoño
+LEC-0111,Est. Bahía,988.69,hPa,Canícula
+LEC-0112,Est. Selva,1039.35,hPa,Invierno
+LEC-0113,Est. Norte,1035.56,hPa,Primavera
+LEC-0114,Est. Sierra,1029.27,hPa,Transición Primavera-Verano
+LEC-0115,Est. Sur,28.72,inHg,Verano,dato_extra,93
+LEC-0116,Est. Península,988.21,hPa,Otoño
+
+LEC-0118,Est. Costa,null,inHg,Primavera
+LEC-0119,Est. Norte,1003.08,hPa,Otoño
+LEC-0120,Est. Selva,985.83,hPa,Transición Primavera-Verano
+LEC-0121,Est. Desierto,966.62,hPa,Transición Otoño-Invierno
+LEC-0122,Est. Sierra,1049.66,hPa,Otoño
+LEC-0123,Est. Selva,997.57,hPa,Transición Otoño-Invierno
+LEC-0124,Est. Bosque,976.84,hPa,Transición Otoño-Invierno
+LEC-0125,Est. Desierto,1024.48,hPa,Primavera
+LEC-0126,Est. Oriente,29.43,inHg,Invierno
+LEC-0127,Est. Altiplano,28.56,inHg,Transición Otoño-Invierno
+LEC-0128,Est. Río,30.0,inHg,Invierno
+LEC-0129,Est. Laguna,1039.14,hPa,Primavera
+LEC-0130,Est. Istmo,999.39,hPa,Canícula
+LEC-0131,Est. Sierra,30.24,inHg,Otoño
+LEC-0132,Est. Volcán,30.52,inHg,Otoño
+LEC-0133,Est. Selva,984.96,hPa,Invierno
+LEC-0134,Est. Cañón,28.95,inHg,Verano
+LEC-0135,Est. Bosque,29.69,inHg,Canícula
+LEC-0136,Est. Río,1044.56,hPa,Invierno
+LEC-0137,Est. Valle,29.79,inHg,Otoño
+LEC-0138,Est. Norte,30.32,inHg,Transición Primavera-Verano
+LEC-0139,Est. Planicie,1015.98,hPa,Verano
+LEC-0140,Est. Istmo,991.22,hPa,Transición Otoño-Invierno
+LEC-0141,Est. Montaña,976.0,hPa,Primavera
+LEC-0142,Est. Costa,1016.81,hPa,Primavera
+LEC-0143,Est. Bahía,1038.11,hPa,Primavera
+LEC-0144,Est. Meseta,999.54,hPa,Transición Otoño-Invierno
+LEC-0145,Est. Bosque,,hPa,Temporada de lluvias
+LEC-0146,Est. Manglar,29.05,inHg,Transición Otoño-Invierno
+LEC-0147,Est. Planicie,29.69,inHg,Primavera
+LEC-0148,Est. Bosque,1040.78,hPa,Transición Otoño-Invierno
+LEC-0149,Est. Planicie,29.41,inHg,Primavera
+LEC-0150,Est. Valle,29.7,inHg,Canícula
+LEC-0151,Est. Volcán,29.74,inHg,Canícula
+LEC-0152,Est. Río,965.95,hPa,Verano
+LEC-0153,Est. Desierto,967.43,hPa,Temporada de lluvias
+LEC-0154,Est. Pradera,988.48,hPa,Otoño
+LEC-0155,Est. Península,1048.74,hPa,Transición Otoño-Invierno
+LEC-0156,Est. Altiplano,28.67,K,Invierno
+LEC-0157,Est. Volcán,29.52,inHg,Transición Primavera-Verano
+LEC-0158,Est. Selva,976.03,hPa,Primavera
+LEC-0159,Est. Norte,30.01,inHg,Otoño
+LEC-0160,Est. Volcán,28.55,inHg,Otoño
+LEC-0161,Est. Laguna,28.6,inHg,Verano
+LEC-0162,Est. Sur,973.55,hPa,Transición Primavera-Verano
+LEC-0163,Est. Pradera,1019.61,hPa,Otoño
+LEC-0164,Est. Laguna,1041.57,hPa,Transición Otoño-Invierno
+LEC-0165,Est. Desierto,28.74,inHg,Invierno
+LEC-0166,Est. Sur,1048.03,hPa,Canícula
+LEC-0167,Est. Meseta,1023.91,hPa,Primavera
+LEC-0168,Est. Costa,30.53,inHg,Invierno
+LEC-0169,Est. Istmo,30.08,inHg,Otoño
+LEC-0170,Est. Península,29.77,inHg,Transición Primavera-Verano
+LEC-0171,Est. Norte,29.31,inHg,Primavera
+LEC-0172,Est. Costa,1008.47,hPa,Otoño
+LEC-0173,Est. Bahía,1034.28,hPa,Temporada de lluvias
+LEC-0174,Est. Istmo,971.01,hPa,Canícula
+LEC-0175,Est. Costa,29.9,inHg,Transición Primavera-Verano
+LEC-0176,Est. Sur,29.69,inHg,Primavera
+LEC-0177,Est. Centro,1016.08,hPa,Verano
+LEC-0178,Est. Bosque,970.13,hPa,Transición Primavera-Verano
+LEC-0179,Est. Poniente,972.67,hPa,Invierno
+LEC-0180,Est. Bahía,1036.75,hPa,Invierno
+LEC-0181,Est. Oriente,30.4,inHg,Primavera
+LEC-0182,Est. Planicie,1030.53,hPa,Invierno
+LEC-0183,Est. Península,30.35,inHg,Canícula
+LEC-0184,Est. Istmo,30.17,inHg,Transición Otoño-Invierno
+LEC-0185,Est. Oriente,1027.11,hPa,Primavera
+LEC-0186,Est. Laguna,29.73,inHg,Invierno
+LEC-0187,Est. Planicie,30.2,inHg,Invierno
+LEC-0188,Est. Valle,1038.31,hPa,Transición Primavera-Verano
+LEC-0189,Est. Río,30.88,inHg,Transición Otoño-Invierno
+LEC-0190,Est. Planicie,1047.13,hPa,Verano
+LEC-0191,Est. Altiplano,28.8,inHg,Invierno
+LEC-0192,Est. Desierto,970.39,hPa,Temporada de lluvias
+LEC-0193,Est. Altiplano,30.71,inHg,Invierno
+LEC-0194,Est. Valle,30.86,inHg,Invierno
+LEC-0195,Est. Istmo,1029.4,hPa,Temporada de lluvias
+LEC-0196,Est. Sur,29.51,inHg,Verano
+LEC-0197,Est. Valle,1035.75,hPa,Temporada de lluvias
+LEC-0198,Est. Montaña,29.82,inHg,Canícula
+LEC-0199,Est. Cañón,969.2,X,Transición Otoño-Invierno
+LEC-0200,Est. Sierra,993.28,hPa,Transición Primavera-Verano
+LEC-0201,Est. Altiplano,29.29,inHg,Invierno
+LEC-0202,Est. Cañón,29.46,inHg,Temporada de lluvias
+LEC-0203,Est. Planicie,1025.36,hPa,Transición Primavera-Verano
+LEC-0204,Est. Pradera,29.16,inHg,Canícula
+LEC-0205,Est. Oriente,28.73,inHg,Verano
+LEC-0206,Est. Bahía,30.44,inHg,Transición Otoño-Invierno
+LEC-0207,Est. Desierto,30.28,inHg,Transición Otoño-Invierno
+LEC-0208,Est. Centro,1013.13,hPa,Otoño
+LEC-0209,Est. Volcán,1014.29,hPa,Otoño
+LEC-0210,Est. Bosque,988.4,hPa,Primavera
+
+LEC-0212,Est. Valle,29.65,inHg,Invierno
+LEC-0213,Est. Selva,30.57,inHg,Canícula
+LEC-0214,Est. Selva,1018.49,hPa,Canícula
+LEC-0215,Est. Cañón,1022.29,hPa,Verano
+LEC-0216,Est. Poniente,976.95,hPa,Otoño
+LEC-0217,Est. Pradera,29.01,inHg,Transición Otoño-Invierno
+LEC-0218,Est. Norte,967.54,hPa,Verano
+LEC-0219,Est. Manglar,988.66,hPa,Temporada de lluvias
+LEC-0220,Est. Pradera,29.03,inHg,Otoño
+LEC-0221,Est. Península,29.95,inHg,Invierno
+LEC-0222,Est. Río,1033.21,hPa,Canícula
+LEC-0223,Est. Selva,30.42,inHg,Otoño
+LEC-0224,Est. Península,29.84,inHg,Invierno
+LEC-0225,Est. Laguna,1002.62,hPa,Otoño
+LEC-0226,Est. Norte,29.95,inHg,Canícula
+LEC-0227,Est. Sierra,29.56,inHg,Verano
+LEC-0228,Est. Pradera,30.25,inHg,Otoño
+LEC-0229,Est. Istmo,1035.08,hPa,Primavera
+LEC-0230,Est. Selva,1010.12,hPa,Transición Otoño-Invierno
+LEC-0231,Est. Manglar,1018.91,hPa,Primavera
+LEC-0232,Est. Pradera,29.92,inHg,Primavera
+LEC-0233,Est. Río,1037.01,hPa,Invierno
+LEC-0234,Est. Istmo,1021.31,hPa,Temporada de lluvias
+LEC-0235,Est. Oriente,30.16,inHg,Transición Primavera-Verano
+LEC-0236,Est. Centro,1041.52,hPa,Transición Primavera-Verano
+LEC-0237,Est. Centro,30.16,inHg,Temporada de lluvias
+LEC-0238,Est. Sur,1046.49,hPa,Canícula
+LEC-0239,Est. Istmo,30.58,inHg,Verano
+LEC-0240,Est. Meseta,29.65,inHg,Invierno
+LEC-0241,Est. Laguna,error,inHg,Transición Primavera-Verano
+LEC-0242,Est. Cañón,29.24,inHg,Transición Otoño-Invierno
+LEC-0243,Est. Laguna,1025.07,hPa,Temporada de lluvias
+LEC-0244,Est. Planicie,30.97,inHg,Transición Primavera-Verano
+LEC-0245,Est. Centro,997.07,hPa,Transición Primavera-Verano
+LEC-0246,Est. Oriente,30.02,inHg,Otoño
+LEC-0247,Est. Pradera,29.7,inHg,Verano
+LEC-0248,Est. Planicie,29.06,inHg,Invierno
+LEC-0249,Est. Bahía,28.92,inHg,Primavera
+LEC-0250,Est. Costa,28.8,inHg,Otoño
+LEC-0251,Est. Desierto,973.08,hPa,Verano
+LEC-0252,Est. Río,29.02,inHg,Primavera
+LEC-0253,Est. Río,29.22,inHg,Otoño
+LEC-0254,Est. Selva,1043.3,hPa,Transición Primavera-Verano
+LEC-0255,Est. Pradera,1024.71,hPa,Temporada de lluvias
+LEC-0256,Est. Laguna,29.0,inHg,Transición Otoño-Invierno
+LEC-0257,Est. Costa,993.74,hPa,Primavera
+LEC-0258,Est. Altiplano,976.26,hPa,Otoño
+LEC-0259,Est. Oriente,1000.81,hPa,Verano
+LEC-0260,Est. Bosque,965.3,hPa,Canícula
+LEC-0261,Est. Desierto,30.43,inHg,Otoño
+LEC-0262,Est. Selva,29.59,inHg,Temporada de lluvias
+LEC-0263,Est. Sur,30.04,inHg,Temporada de lluvias
+LEC-0264,Est. Planicie,969.76,hPa,Verano
+LEC-0265,Est. Río,1038.18,hPa,Primavera
+LEC-0266,Est. Manglar,1036.22,hPa,Otoño
+LEC-0267,Est. Valle,986.44,hPa,Transición Otoño-Invierno
+LEC-0268,Est. Volcán,976.7,hPa,Transición Primavera-Verano
+LEC-0269,Est. Valle,1045.61,hPa,Invierno
+LEC-0270,Est. Sur,1040.3,hPa,Transición Otoño-Invierno
+LEC-0271,Est. Desierto,1005.87,hPa,Transición Primavera-Verano
+LEC-0272,Est. Pradera,983.09,hPa,Transición Primavera-Verano
+LEC-0273,Est. Cañón,1011.52,?,Transición Primavera-Verano
+LEC-0274,Est. Norte,29.64,inHg,Canícula
+LEC-0275,Est. Norte,966.25,hPa,Canícula
+LEC-0276,Est. Costa,29.14,inHg,Transición Otoño-Invierno
+
+LEC-0278,Est. Selva,30.01,inHg,Transición Primavera-Verano
+LEC-0279,Est. Bahía,28.59,inHg,Transición Otoño-Invierno
+LEC-0280,Est. Meseta,28.96,inHg,Temporada de lluvias
+LEC-0281,Est. Planicie,1031.3,hPa,Otoño
+LEC-0282,Est. Bosque,29.3,inHg,Canícula
+LEC-0283,Est. Selva,1000.71,hPa,Canícula,dato_extra,7
+LEC-0284,Est. Centro,1033.77,hPa,Otoño
+LEC-0285,Est. Valle,28.71,inHg,Otoño
+
+LEC-0287,Est. Río,966.82,hPa,Canícula
+LEC-0288,Est. Altiplano,979.61,hPa,Transición Otoño-Invierno
+LEC-0289,Est. Península,970.78,hPa,Verano
+LEC-0290,Est. Montaña,28.75,inHg,Otoño
+LEC-0291,Est. Meseta,991.94,hPa,Transición Primavera-Verano,dato_extra,16
+LEC-0292,Est. Valle,981.24,hPa,Canícula
+LEC-0293,Est. Istmo,30.26,inHg,Primavera
+LEC-0294,Est. Montaña,1037.93,hPa,Verano
+LEC-0295,Est. Laguna,29.34,inHg,Transición Otoño-Invierno
+LEC-0296,Est. Planicie,991.05,hPa,Invierno
+LEC-0297,Est. Laguna,28.81,inHg,Temporada de lluvias
+LEC-0298,Est. Manglar,966.23,hPa,Invierno
+LEC-0299,Est. Centro,989.83,hPa,Otoño
+LEC-0300,Est. Istmo,29.68,inHg,Transición Primavera-Verano
+LEC-0301,Est. Istmo,29.38,inHg,Verano
+LEC-0302,Est. Pradera,1048.6,hPa,Canícula,dato_extra,78
+LEC-0303,Est. Planicie,1033.65,hPa,Transición Primavera-Verano
+LEC-0304,Est. Montaña,29.61,inHg,Otoño
+LEC-0305,Est. Norte,1022.89,hPa,Transición Otoño-Invierno
+LEC-0306,Est. Meseta,1015.01,hPa,Invierno
+LEC-0307,Est. Istmo,965.71,hPa,Primavera
+LEC-0308,Est. Manglar,28.99,inHg,Canícula
+LEC-0309,Est. Pradera,30.07,inHg,Otoño
+LEC-0310,Est. Costa,1011.85,hPa,Transición Otoño-Invierno
+LEC-0311,Est. Oriente,29.54,inHg,Temporada de lluvias
+LEC-0312,Est. Planicie,983.59,hPa,Primavera
+LEC-0313,Est. Manglar,30.59,inHg,Primavera,dato_extra,21
+LEC-0314,Est. Poniente,29.75,inHg,Canícula
+LEC-0315,Est. Norte,30.88,inHg,Transición Otoño-Invierno
+LEC-0316,Est. Bosque,29.09,inHg,Invierno
+LEC-0317,Est. Meseta,977.92,hPa,Temporada de lluvias
+LEC-0318,Est. Desierto,973.01,hPa,Verano
+LEC-0319,Est. Bosque,1046.45,hPa,Otoño
+LEC-0320,Est. Norte,984.93,hPa,Primavera
+LEC-0321,Est. Istmo,1022.93,hPa,Transición Primavera-Verano
+LEC-0322,Est. Meseta,1015.93,hPa,Verano
+LEC-0323,Est. Bosque,966.88,hPa,Canícula
+LEC-0324,Est. Poniente,29.81,inHg,Transición Primavera-Verano,dato_extra,45
+LEC-0325,Est. Volcán,30.46,inHg,Verano
+LEC-0326,Est. Planicie,30.95,inHg,Primavera
+LEC-0327,Est. Península
+LEC-0328,Est. Volcán,1007.05,hPa,Otoño
+LEC-0329,Est. Desierto,28.97,inHg,Temporada de lluvias
+LEC-0330,Est. Selva,1047.84,hPa,Canícula
+LEC-0331,Est. Península,N/A,hPa,Primavera
+LEC-0332,Est. Laguna,1044.86,hPa,Transición Otoño-Invierno
+LEC-0333,Est. Manglar,28.64,inHg,Invierno
+LEC-0334,Est. Altiplano,1005.98,hPa,Primavera
+LEC-0335,Est. Bahía,1006.33,hPa,Canícula
+LEC-0336,Est. Manglar,28.63,inHg,Otoño
+LEC-0337,Est. Planicie,,inHg,Invierno
+LEC-0338,Est. Valle,1014.83,hPa,Transición Otoño-Invierno
+LEC-0339,Est. Planicie,1009.67,hPa,Temporada de lluvias
+LEC-0340,Est. Istmo,30.25,inHg,Temporada de lluvias
+LEC-0341,Est. Cañón,1015.17,hPa,Temporada de lluvias
+LEC-0342,Est. Costa,1031.1,K,Invierno
+LEC-0343,Est. Planicie,989.45,hPa,Temporada de lluvias,dato_extra,67
+LEC-0344,Est. Selva,30.24,inHg,Invierno
+LEC-0345,Est. Istmo,999.66,hPa,Canícula
+LEC-0346,Est. Desierto,1040.28,hPa,Otoño
+LEC-0347,Est. Bosque,29.8,inHg,Primavera
+LEC-0348,Est. Bosque,976.42,hPa,Canícula
+LEC-0349,Est. Río,28.92,inHg,Canícula
+LEC-0350,Est. Sur,1015.3,hPa,Otoño
+LEC-0351,Est. Cañón,30.15,inHg,Invierno
+LEC-0352,Est. Volcán,30.34,inHg,Transición Primavera-Verano
+LEC-0353,Est. Pradera,29.26,inHg,Primavera
+LEC-0354,Est. Península,28.58,inHg,Transición Otoño-Invierno
+LEC-0355,Est. Meseta,28.69,inHg,Primavera
+LEC-0356,Est. Laguna,999.93,hPa,Transición Otoño-Invierno
+LEC-0357,Est. Istmo,29.3,inHg,Verano
+LEC-0358,Est. Laguna,1032.12,hPa,Invierno
+LEC-0359,Est. Altiplano,29.12,inHg,Temporada de lluvias
+LEC-0360,Est. Oriente,1026.86,hPa,Transición Primavera-Verano
+LEC-0361,Est. Meseta,1031.87,hPa,Invierno
+LEC-0362,Est. Volcán,965.98,hPa,Temporada de lluvias
+LEC-0363,Est. Sur,1044.78,hPa,Invierno
+LEC-0364,Est. Sur,29.8,inHg,Transición Otoño-Invierno
+LEC-0365,Est. Península,30.0,inHg,Transición Otoño-Invierno
+LEC-0366,Est. Río,28.82,inHg,Transición Primavera-Verano
+LEC-0367,Est. Desierto,,hPa,Canícula
+LEC-0368,Est. Norte,28.61,inHg,Temporada de lluvias
+LEC-0369,Est. Manglar,1011.33,hPa,Transición Otoño-Invierno
+LEC-0370,Est. Manglar,30.99,inHg,Invierno
+LEC-0371,Est. Planicie,28.61,inHg,Transición Primavera-Verano
+LEC-0372,Est. Planicie,30.18,inHg,Temporada de lluvias
+LEC-0373,Est. Sur,1037.18,hPa,Transición Primavera-Verano
+LEC-0374,Est. Sur,30.15,inHg,Primavera
+LEC-0375,Est. Costa,30.22,inHg,Transición Primavera-Verano
+LEC-0376,Est. Meseta,30.86,inHg,Transición Otoño-Invierno
+LEC-0377,Est. Istmo,1004.31,hPa,Transición Otoño-Invierno
+LEC-0378,Est. Desierto,966.05,hPa,Invierno
+LEC-0379,Est. Norte,30.27,inHg,Otoño
+LEC-0380,Est. Montaña,30.61,inHg,Canícula
+LEC-0381,Est. Península,989.29,X,Primavera
+LEC-0382,Est. Oriente,29.9,inHg,Verano
+LEC-0383,Est. Istmo,29.29,inHg,Canícula
+LEC-0384,Est. Planicie,29.19
+LEC-0385,Est. Meseta,1016.68,hPa,Canícula
+LEC-0386,Est. Manglar,29.6,inHg,Temporada de lluvias
+LEC-0387,Est. Cañón,30.98,inHg,Temporada de lluvias
+LEC-0388,Est. Costa,1029.68,hPa,Primavera
+LEC-0389,Est. Río,28.57,inHg,Transición Otoño-Invierno
+LEC-0390,Est. Altiplano,30.25,inHg,Otoño
+LEC-0391,Est. Norte,29.41,inHg,Temporada de lluvias
+LEC-0392,Est. Valle,28.75,inHg,Transición Primavera-Verano
+LEC-0393,Est. Manglar,1025.39,hPa,Temporada de lluvias
+LEC-0394,Est. Planicie,995.23,hPa,Verano
+LEC-0395,Est. Montaña,29.07,inHg,Invierno
+LEC-0396,Est. Manglar,1010.92,hPa,Verano,dato_extra,83
+LEC-0397,Est. Istmo,968.18,hPa,Transición Otoño-Invierno
+LEC-0398,Est. Península,1032.41,hPa,Transición Otoño-Invierno
+LEC-0399,Est. Bahía,30.03,inHg,Primavera
+LEC-0400,Est. Montaña,1048.91,hPa,Canícula
+LEC-0401,Est. Istmo,29.72,inHg,Transición Primavera-Verano
+LEC-0402,Est. Península,1048.63,hPa,Primavera
+LEC-0403,Est. Centro,991.82,hPa,Temporada de lluvias
+LEC-0404,Est. Bosque,1022.51,hPa,Canícula
+LEC-0405,Est. Costa,N/A,hPa,Otoño
+LEC-0406,Est. Bosque
+LEC-0407,Est. Desierto,28.86,inHg,Primavera
+LEC-0408,Est. Valle,29.03,inHg,Verano
+LEC-0409,Est. Bahía,967.61,hPa,Temporada de lluvias
+LEC-0410,Est. Laguna,1042.58,hPa,Primavera
+LEC-0411,Est. Manglar,,hPa,Otoño
+LEC-0412,Est. Centro,28.62,inHg,Transición Otoño-Invierno
+LEC-0413,Est. Centro,30.62,inHg,Canícula
+LEC-0414,Est. Poniente,1047.58,hPa,Transición Primavera-Verano
+LEC-0415,Est. Laguna,30.77,inHg,Temporada de lluvias
+LEC-0416,Est. Montaña,30.0,inHg,Otoño
+LEC-0417,Est. Volcán,30.31,inHg,Transición Primavera-Verano
+LEC-0418,Est. Pradera,1017.26,hPa,Primavera
+LEC-0419,Est. Pradera,969.13,hPa,Primavera
+LEC-0420,Est. Norte,30.7,inHg,Verano
+LEC-0421,Est. Norte,1048.98,hPa,Temporada de lluvias
+LEC-0422,Est. Altiplano,1036.35,hPa,Invierno
+LEC-0423,Est. Altiplano,991.89,hPa,Temporada de lluvias,dato_extra,55
+
+LEC-0425,Est. Costa,982.78,hPa,Canícula
+LEC-0426,Est. Laguna,1006.72,hPa,Temporada de lluvias
+LEC-0427,Est. Manglar,1041.43,hPa,Transición Otoño-Invierno
+LEC-0428,Est. Selva,1041.91,hPa,Otoño
+LEC-0429,Est. Norte,28.99,inHg,Canícula
+LEC-0430,Est. Oriente,1031.7,hPa,Otoño
+LEC-0431,Est. Pradera,980.68,hPa,Transición Otoño-Invierno
+LEC-0432,Est. Oriente,29.53,inHg,Verano
+LEC-0433,Est. Pradera,993.93,hPa,Transición Otoño-Invierno
+LEC-0434,Est. Oriente,1023.2,hPa,Invierno
+LEC-0435,Est. Manglar,30.79,inHg,Transición Primavera-Verano
+LEC-0436,Est. Bosque,30.68,inHg,Temporada de lluvias
+LEC-0437,Est. Norte,1032.77,hPa,Verano
+LEC-0438,Est. Bahía,993.47,hPa,Canícula
+LEC-0439,Est. Bosque,1010.39,hPa,Otoño
+LEC-0440,Est. Poniente,29.63,inHg,Otoño
+LEC-0441,Est. Pradera,29.96,inHg,Transición Primavera-Verano
+LEC-0442,Est. Bosque,977.74,hPa,Verano
+LEC-0443,Est. Volcán,1021.01,hPa,Transición Primavera-Verano
+LEC-0444,Est. Desierto,29.19,inHg,Transición Otoño-Invierno
+LEC-0445,Est. Desierto,985.44,hPa,Transición Otoño-Invierno
+LEC-0446,Est. Montaña,29.92,inHg,Transición Otoño-Invierno
+LEC-0447,Est. Altiplano,973.49,hPa,Invierno
+LEC-0448,Est. Centro,29.79,inHg,Transición Otoño-Invierno
+LEC-0449,Est. Manglar,29.24,inHg,Temporada de lluvias
+LEC-0450,Est. Península,1014.08,hPa,Transición Primavera-Verano
+LEC-0451,Est. Cañón,30.84,inHg,Canícula
+LEC-0452,Est. Planicie,29.84,inHg,Canícula
+LEC-0453,Est. Volcán,29.26,inHg,Canícula
+LEC-0454,Est. Sur,30.82,inHg,Verano
+LEC-0455,Est. Valle,29.71,inHg,Invierno
+LEC-0456,Est. Poniente,1027.48,hPa,Transición Otoño-Invierno
+LEC-0457,Est. Pradera,29.91,inHg,Canícula
+LEC-0458,Est. Cañón,1016.32,hPa,Otoño
+LEC-0459,Est. Meseta,29.06,inHg,Otoño
+LEC-0460,Est. Bahía,30.17,inHg,Verano
+LEC-0461,Est. Pradera,29.79,inHg,Transición Otoño-Invierno
+LEC-0462,Est. Centro,1038.64,hPa,Primavera
+LEC-0463,Est. Laguna,987.07,hPa,Invierno
+LEC-0464,Est. Sierra,30.82,inHg,Invierno
+LEC-0465,Est. Centro,28.9,inHg,Verano
+LEC-0466,Est. Norte,28.59,inHg,Otoño
+LEC-0467,Est. Bahía,29.33,inHg,Temporada de lluvias
+LEC-0468,Est. Desierto,29.66,inHg,Verano
+LEC-0469,Est. Península,30.92,inHg,Canícula
+LEC-0470,Est. Desierto,29.12,inHg,Temporada de lluvias
+LEC-0471,Est. Planicie,974.22,hPa,Invierno
+LEC-0472,Est. Laguna,30.0,inHg,Temporada de lluvias
+LEC-0473,Est. Selva,976.23,hPa,Primavera
+LEC-0474,Est. Valle,30.36,inHg,Temporada de lluvias
+LEC-0475,Est. Valle,1021.15,hPa,Verano
+LEC-0476,Est. Península,28.72,inHg,Primavera
+LEC-0477,Est. Río,28.98,inHg,Otoño
+LEC-0478,Est. Cañón,28.62,inHg,Transición Otoño-Invierno
+LEC-0479,Est. Costa,990.11,hPa,Canícula
+LEC-0480,Est. Costa,29.3,inHg,Transición Primavera-Verano
+LEC-0481,Est. Península,1018.97,hPa,Invierno
+LEC-0482,Est. Pradera,1014.95,hPa,Transición Otoño-Invierno
+LEC-0483,Est. Altiplano,29.04,inHg,Transición Primavera-Verano
+LEC-0484,Est. Laguna,1039.96,hPa,Transición Otoño-Invierno
+LEC-0485,Est. Sierra,1015.38,hPa,Transición Otoño-Invierno
+LEC-0486,Est. Costa,30.67,inHg,Invierno
+LEC-0487,Est. Cañón,30.28,inHg,Transición Otoño-Invierno
+LEC-0488,Est. Altiplano,29.37,inHg,Canícula
+LEC-0489,Est. Río,30.42,inHg,Primavera
+LEC-0490,Est. Desierto,29.32,inHg,Transición Otoño-Invierno
+LEC-0491,Est. Cañón,977.95,hPa,Canícula
+LEC-0492,Est. Río,29.66,inHg,Canícula
+LEC-0493,Est. Poniente,30.2,inHg,Canícula
+LEC-0494,Est. Planicie,29.19,inHg,Transición Primavera-Verano
+LEC-0495,Est. Norte,30.35,inHg,Transición Otoño-Invierno
+LEC-0496,Est. Bahía,998.23,hPa,Otoño
+LEC-0497,Est. Península,28.74,inHg,Otoño
+LEC-0498,Est. Oriente,28.53,inHg,Otoño
+LEC-0499,Est. Planicie,29.65,inHg,Verano
+LEC-0500,Est. Valle,30.75,inHg,Invierno
+LEC-0501,Est. Istmo,1022.41,hPa,Verano
+LEC-0502,Est. Península,1012.27,hPa,Otoño
+LEC-0503,Est. Selva,989.37,hPa,Otoño
+LEC-0504,Est. Costa,30.17,inHg,Temporada de lluvias
+LEC-0505,Est. Volcán,29.13,inHg,Transición Otoño-Invierno
+LEC-0506,Est. Altiplano,30.55,inHg,Temporada de lluvias
+LEC-0507,Est. Istmo,28.9,inHg,Invierno
+LEC-0508,Est. Oriente,987.97,hPa,Invierno
+LEC-0509,Est. Pradera,1031.82,hPa,Temporada de lluvias
+LEC-0510,Est. Costa,1021.42,hPa,Transición Otoño-Invierno
+LEC-0511,Est. Oriente,28.63,inHg,Transición Otoño-Invierno
+LEC-0512,Est. Cañón,1012.49,hPa,Canícula
+LEC-0513,Est. Selva,29.71,inHg,Primavera
+LEC-0514,Est. Cañón,30.54,inHg,Primavera
+LEC-0515,Est. Selva,996.32,hPa,Verano
+LEC-0516,Est. Pradera,1037.67,hPa,Verano
+LEC-0517,Est. Oriente,989.12,hPa,Transición Primavera-Verano
+LEC-0518,Est. Bosque,29.87,inHg,Temporada de lluvias
+LEC-0519,Est. Norte,1029.09,hPa,Transición Otoño-Invierno
+LEC-0520,Est. Altiplano,1010.06,hPa,Invierno
+LEC-0521,Est. Bosque,1040.69,hPa,Temporada de lluvias
+LEC-0522,Est. Río,28.72,inHg,Invierno
+LEC-0523,Est. Oriente,30.49,inHg,Transición Primavera-Verano
+LEC-0524,Est. Planicie,30.3,inHg,Primavera
+LEC-0525,Est. Laguna,28.98,inHg,Verano
+LEC-0526,Est. Meseta,29.82,inHg,Invierno
+LEC-0527,Est. Valle,29.0,inHg,Transición Otoño-Invierno,dato_extra,47
+LEC-0528,Est. Altiplano,29.29,inHg,Canícula
+LEC-0529,Est. Meseta,1019.33,hPa,Otoño
+LEC-0530,Est. Planicie,992.59,hPa,Transición Otoño-Invierno
+LEC-0531,Est. Sur,30.69,inHg,Primavera
+LEC-0532,Est. Selva,1046.38,hPa,Temporada de lluvias
+LEC-0533,Est. Pradera,30.45,inHg,Transición Otoño-Invierno
+LEC-0534,Est. Norte,992.57,hPa,Invierno
+LEC-0535,Est. Río,1024.23,hPa,Verano
+LEC-0536,Est. Laguna,969.48,hPa,Transición Otoño-Invierno
+LEC-0537,Est. Planicie,30.63,inHg,Verano
+LEC-0538,Est. Montaña,1026.24,hPa,Transición Primavera-Verano
+LEC-0539,Est. Cañón,29.0,inHg,Primavera
+LEC-0540,Est. Cañón,29.0,inHg,Otoño
+LEC-0541,Est. Cañón,30.81,inHg,Temporada de lluvias
+LEC-0542,Est. Laguna
+LEC-0543,Est. Manglar,972.8,hPa,Primavera
+LEC-0544,Est. Pradera,966.2,hPa,Primavera
+LEC-0545,Est. Península,29.57,inHg,Transición Primavera-Verano
+LEC-0546,Est. Valle,983.32,hPa,Otoño
+LEC-0547,Est. Cañón,1004.08,hPa,Primavera
+LEC-0548,Est. Costa,30.1,K,Invierno
+LEC-0549,Est. Cañón,976.71,hPa,Canícula
+LEC-0550,Est. Costa,979.37,hPa,Transición Primavera-Verano
+LEC-0551,Est. Altiplano,1033.51,hPa,Otoño
+LEC-0552,Est. Sur,969.6,hPa,Invierno
+LEC-0553,Est. Península,28.84,inHg,Canícula
+LEC-0554,Est. Volcán,30.6,inHg,Primavera
+LEC-0555,Est. Istmo,978.08,hPa,Transición Primavera-Verano
+LEC-0556,Est. Volcán,1018.46,hPa,Otoño
+LEC-0557,Est. Laguna,--,hPa,Invierno
+LEC-0558,Est. Poniente,28.83,inHg,Invierno
+LEC-0559,Est. Altiplano,1013.32,hPa,Verano
+LEC-0560,Est. Planicie,1033.4,hPa,Primavera
+LEC-0561,Est. Selva,996.95,hPa
+LEC-0562,Est. Planicie,1032.0,hPa,Transición Otoño-Invierno
+LEC-0563,Est. Centro,29.53,inHg,Verano
+LEC-0564,Est. Istmo,28.99,inHg,Verano
+LEC-0565,Est. Laguna,29.49,inHg,Canícula
+LEC-0566,Est. Manglar,29.75,inHg,Temporada de lluvias
+LEC-0567,Est. Selva,30.99,inHg,Transición Otoño-Invierno
+LEC-0568,Est. Río,1026.45,hPa,Canícula
+LEC-0569,Est. Altiplano,29.57,inHg,Otoño
+LEC-0570,Est. Volcán,1032.52,hPa,Primavera
+LEC-0571,Est. Meseta,30.29,inHg,Temporada de lluvias
+LEC-0572,Est. Selva,1032.39,hPa,Invierno
+LEC-0573,Est. Manglar,968.18,hPa,Invierno
+LEC-0574,Est. Laguna,1039.94,hPa,Temporada de lluvias
+LEC-0575,Est. Selva,29.74,inHg,Primavera
+LEC-0576,Est. Sierra,988.54,hPa,Canícula
+LEC-0577,Est. Planicie,29.71,inHg,Transición Otoño-Invierno
+LEC-0578,Est. Cañón,1030.67,hPa,Transición Primavera-Verano
+LEC-0579,Est. Península,30.22,inHg,Verano
+LEC-0580,Est. Altiplano,984.67,hPa,Transición Otoño-Invierno
+LEC-0581,Est. Desierto,30.4,inHg,Otoño
+LEC-0582,Est. Sur,29.64,inHg,Verano
+LEC-0583,Est. Manglar,29.28,inHg,Otoño
+
+LEC-0585,Est. Altiplano,1009.02,hPa,Transición Otoño-Invierno
+LEC-0586,Est. Altiplano,30.68,inHg,Verano
+LEC-0587,Est. Planicie,969.62,hPa,Temporada de lluvias
+LEC-0588,Est. Valle,1022.52,hPa,Temporada de lluvias
+LEC-0589,Est. Bahía,29.66,inHg,Transición Otoño-Invierno
+LEC-0590,Est. Planicie,1011.96,hPa,Otoño
+LEC-0591,Est. Oriente,993.02,hPa,Invierno
+
+LEC-0593,Est. Istmo,29.11,inHg,Primavera
+LEC-0594,Est. Istmo,986.41,hPa,Transición Otoño-Invierno
+LEC-0595,Est. Bosque,30.49,inHg,Invierno
+LEC-0596,Est. Costa,1025.56,hPa,Canícula
+LEC-0597,Est. Cañón,30.41,inHg,Canícula
+LEC-0598,Est. Costa,28.73,inHg,Temporada de lluvias
+LEC-0599,Est. Montaña,983.53,hPa,Verano
+LEC-0600,Est. Altiplano,1032.38,hPa,Verano
+LEC-0601,Est. Volcán,1043.49,hPa,Canícula
+LEC-0602,Est. Desierto,29.62,inHg,Temporada de lluvias
+LEC-0603,Est. Sur,1044.87,hPa,Invierno
+LEC-0604,Est. Bahía,29.51,inHg,Otoño
+LEC-0605,Est. Norte,1047.35,hPa,Otoño
+LEC-0606,Est. Valle,29.62,inHg,Invierno
+LEC-0607,Est. Península,30.29,inHg,Transición Otoño-Invierno
+LEC-0608,Est. Centro,986.54,hPa,Transición Otoño-Invierno
+LEC-0609,Est. Norte,1023.53,hPa,Transición Primavera-Verano
+LEC-0610,Est. Altiplano,1007.7,hPa,Otoño
+LEC-0611,Est. Montaña,30.97,inHg,Transición Primavera-Verano
+LEC-0612,Est. Istmo,1033.36,hPa,Transición Otoño-Invierno
+LEC-0613,Est. Península,30.45,inHg,Transición Otoño-Invierno
+LEC-0614,Est. Selva,969.84,hPa,Invierno
+LEC-0615,Est. Norte,29.24,inHg,Primavera
+LEC-0616,Est. Centro,30.9,inHg,Verano
+LEC-0617,Est. Oriente,30.64,inHg,Canícula
+LEC-0618,Est. Sierra,975.34,hPa,Primavera
+LEC-0619,Est. Desierto,30.75,inHg,Primavera
+LEC-0620,Est. Sur,1033.31,hPa,Temporada de lluvias
+LEC-0621,Est. Altiplano,1009.9,hPa,Primavera
+LEC-0622,Est. Bahía,28.67,inHg,Invierno
+LEC-0623,Est. Valle,972.5,hPa,Transición Primavera-Verano
+LEC-0624,Est. Volcán,29.56,inHg,Transición Otoño-Invierno
+LEC-0625,Est. Selva,971.66,hPa,Otoño
+LEC-0626,Est. Altiplano,30.93,inHg,Primavera
+LEC-0627,Est. Pradera,991.85,hPa,Otoño
+LEC-0628,Est. Península,1028.22,hPa,Transición Primavera-Verano
+LEC-0629,Est. Sur,28.59,K,Temporada de lluvias
+LEC-0630,Est. Planicie,28.99,inHg,Transición Primavera-Verano
+LEC-0631,Est. Oriente,29.31,inHg,Verano
+LEC-0632,Est. Desierto,30.1,inHg,Verano
+LEC-0633,Est. Cañón,30.36,inHg,Canícula
+LEC-0634,Est. Montaña,1009.5,hPa,Canícula
+LEC-0635,Est. Bosque,1049.62,hPa,Transición Otoño-Invierno
+LEC-0636,Est. Oriente,28.72,inHg,Otoño
+LEC-0637,Est. Centro,29.68,inHg,Transición Otoño-Invierno
+LEC-0638,Est. Manglar,29.87,inHg,Verano
+LEC-0639,Est. Meseta,1000.74,hPa,Otoño
+LEC-0640,Est. Montaña,996.26,hPa,Otoño
+LEC-0641,Est. Norte,1046.5,hPa,Transición Otoño-Invierno
+
+LEC-0643,Est. Istmo,29.79,inHg,Canícula
+LEC-0644,Est. Pradera,29.51,inHg,Canícula
+LEC-0645,Est. Centro,29.41,inHg,Otoño
+LEC-0646,Est. Cañón,28.61,inHg,Invierno,dato_extra,44
+LEC-0647,Est. Península,N/A,inHg,Temporada de lluvias
+LEC-0648,Est. Península,29.14,inHg,Verano
+LEC-0649,Est. Pradera,30.98,inHg,Otoño
+LEC-0650,Est. Península,30.66,inHg,Invierno
+LEC-0651,Est. Meseta,28.72,inHg,Transición Otoño-Invierno
+LEC-0652,Est. Planicie,28.53,inHg,Verano
+LEC-0653,Est. Sierra,1001.68,hPa,Canícula
+LEC-0654,Est. Montaña,29.54,inHg,Verano
+LEC-0655,Est. Altiplano,29.34,inHg,Otoño
+
+LEC-0657,Est. Península,1019.46,hPa,Temporada de lluvias
+LEC-0658,Est. Sur,966.68,hPa,Canícula
+LEC-0659,Est. Sur,28.66,inHg,Transición Primavera-Verano
+LEC-0660,Est. Centro,29.22,inHg,Transición Primavera-Verano
+
+LEC-0662,Est. Cañón,null,hPa,Otoño
+LEC-0663,Est. Valle,995.88,hPa,Transición Otoño-Invierno
+LEC-0664,Est. Pradera,28.68,inHg,Temporada de lluvias
+
+LEC-0666,Est. Montaña,30.53,inHg,Invierno
+LEC-0667,Est. Poniente,1039.51,hPa,Otoño
+LEC-0668,Est. Sur,29.21,inHg,Transición Otoño-Invierno
+LEC-0669,Est. Meseta,1001.13,hPa,Canícula
+LEC-0670,Est. Montaña,1044.24,hPa,Otoño
+LEC-0671,Est. Manglar,1000.43,hPa,Primavera
+LEC-0672,Est. Planicie,980.87,hPa
+LEC-0673,Est. Cañón,28.89,inHg,Verano
+LEC-0674,Est. Sierra,29.85,inHg,Otoño
+LEC-0675,Est. Montaña,28.73,inHg,Primavera
+LEC-0676,Est. Costa,969.49,hPa,Transición Primavera-Verano
+LEC-0677,Est. Río,29.35,inHg,Verano
+LEC-0678,Est. Oriente,28.9,inHg,Verano
+LEC-0679,Est. Cañón,29.48,inHg,Primavera
+LEC-0680,Est. Oriente,29.76,inHg,Canícula
+LEC-0681,Est. Sierra,985.35,hPa,Otoño
+LEC-0682,Est. Pradera,1038.3,hPa,Otoño
+LEC-0683,Est. Desierto,30.92,inHg,Primavera
+LEC-0684,Est. Planicie,998.56,hPa,Verano
+LEC-0685,Est. Manglar,1007.69,hPa,Verano
+LEC-0686,Est. Río,30.04,inHg,Transición Primavera-Verano
+LEC-0687,Est. Sierra,29.02,inHg,Otoño
+LEC-0688,Est. Cañón,1049.0,hPa,Transición Otoño-Invierno
+LEC-0689,Est. Pradera,1005.94,hPa,Primavera
+LEC-0690,Est. Valle,1039.46,hPa,Invierno
+LEC-0691,Est. Meseta,1028.28,hPa,Verano
+LEC-0692,Est. Centro,30.49,inHg,Canícula
+LEC-0693,Est. Península,30.29,inHg,Invierno
+LEC-0694,Est. Altiplano,29.42,K,Invierno
+LEC-0695,Est. Sierra,1001.25,hPa,Transición Otoño-Invierno
+LEC-0696,Est. Río,28.71,inHg,Primavera
+LEC-0697,Est. Poniente,30.57,inHg,Invierno
+LEC-0698,Est. Manglar,29.77,inHg,Transición Otoño-Invierno
+LEC-0699,Est. Laguna,997.08,hPa,Verano
+LEC-0700,Est. Montaña,1035.41,hPa,Invierno
+LEC-0701,Est. Altiplano,28.78,inHg,Temporada de lluvias
+LEC-0702,Est. Bosque,30.8,inHg,Primavera
+LEC-0703,Est. Norte,30.36,inHg,Transición Primavera-Verano
+LEC-0704,Est. Oriente,984.13,hPa,Transición Primavera-Verano
+LEC-0705,Est. Sur,29.27,inHg,Invierno
+LEC-0706,Est. Bosque,1048.25,hPa,Canícula
+LEC-0707,Est. Sierra,1031.64,hPa,Otoño
+LEC-0708,Est. Bosque,30.0,inHg,Transición Primavera-Verano
+LEC-0709,Est. Laguna,1007.28,hPa,Invierno
+LEC-0710,Est. Costa,1039.05,hPa,Verano
+LEC-0711,Est. Sierra,1042.05,hPa,Otoño
+LEC-0712,Est. Montaña,29.65,,Invierno
+LEC-0713,Est. Istmo,1043.71,hPa,Invierno
+LEC-0714,Est. Oriente,996.81,hPa,Transición Otoño-Invierno
+LEC-0715,Est. Poniente,1048.53,hPa,Invierno
+LEC-0716,Est. Costa,30.36,inHg,Otoño
+LEC-0717,Est. Istmo,1033.66,hPa,Invierno
+LEC-0718,Est. Norte,1017.61,hPa,Temporada de lluvias
+LEC-0719,Est. Selva,989.68,hPa,Primavera
+LEC-0720,Est. Meseta,30.42,inHg,Primavera
+LEC-0721,Est. Poniente,1013.11,hPa,Verano
+LEC-0722,Est. Selva,29.0,inHg,Primavera
+LEC-0723,Est. Istmo,1049.77,hPa,Transición Otoño-Invierno
+LEC-0724,Est. Selva,30.89,inHg,Primavera
+LEC-0725,Est. Laguna,30.15,inHg,Transición Primavera-Verano
+LEC-0726,Est. Altiplano,1031.62,hPa,Otoño
+LEC-0727,Est. Poniente,30.38,inHg,Primavera
+LEC-0728,Est. Norte,977.66,hPa,Invierno
+LEC-0729,Est. Río,29.4,inHg,Transición Otoño-Invierno
+LEC-0730,Est. Desierto,30.67,inHg,Temporada de lluvias
+LEC-0731,Est. Altiplano,977.63,hPa,Invierno
+LEC-0732,Est. Poniente,28.61,inHg,Temporada de lluvias
+LEC-0733,Est. Río,30.96,inHg,Primavera
+LEC-0734,Est. Laguna,1045.62,hPa,Transición Otoño-Invierno
+LEC-0735,Est. Norte,29.58,inHg,Invierno
+LEC-0736,Est. Oriente,1012.96,hPa,Transición Primavera-Verano
+LEC-0737,Est. Laguna,30.41,inHg,Otoño
+LEC-0738,Est. Oriente,1016.26,hPa,Verano
+LEC-0739,Est. Península,1014.54,hPa,Otoño
+LEC-0740,Est. Sierra,29.32,inHg,Transición Otoño-Invierno
+LEC-0741,Est. Centro,1001.0,hPa,Canícula
+LEC-0742,Est. Laguna,1030.06,hPa,Transición Primavera-Verano
+LEC-0743,Est. Sur,1019.7,hPa,Primavera
+LEC-0744,Est. Manglar,988.23,hPa,Otoño
+LEC-0745,Est. Sur,29.26,inHg,Transición Primavera-Verano
+LEC-0746,Est. Poniente,29.93,inHg,Primavera
+LEC-0747,Est. Planicie,995.99,hPa,Invierno
+LEC-0748,Est. Planicie,30.48,inHg,Temporada de lluvias
+LEC-0749,Est. Meseta,29.47,inHg,Temporada de lluvias
+LEC-0750,Est. Bahía,1003.15,hPa,Transición Otoño-Invierno
+LEC-0751,Est. Península,30.5,inHg,Temporada de lluvias
+LEC-0752,Est. Desierto,986.57,hPa,Verano
+LEC-0753,Est. Montaña,29.51,inHg,Canícula
+LEC-0754,Est. Bosque,30.04,inHg,Verano
+LEC-0755,Est. Desierto,1029.89,hPa,Otoño
+LEC-0756,Est. Cañón,28.66,inHg,Temporada de lluvias
+LEC-0757,Est. Bahía,30.42,inHg,Verano
+LEC-0758,Est. Pradera,1011.79,hPa,Verano
+LEC-0759,Est. Sierra,29.15,inHg,Transición Primavera-Verano
+LEC-0760,Est. Istmo,1028.4,hPa,Primavera
+LEC-0761,Est. Sierra,1023.09,hPa,Primavera
+LEC-0762,Est. Bahía,1034.99,hPa,Verano
+LEC-0763,Est. Desierto,30.76,inHg,Verano
+LEC-0764,Est. Pradera,979.4,hPa,Temporada de lluvias
+LEC-0765,Est. Altiplano,28.73,inHg,Temporada de lluvias
+LEC-0766,Est. Sur,29.39,inHg,Temporada de lluvias
+LEC-0767,Est. Oriente,1043.46,hPa,Primavera
+LEC-0768,Est. Centro,28.74,inHg,Verano
+LEC-0769,Est. Manglar,28.73,inHg,Temporada de lluvias
+LEC-0770,Est. Manglar,30.26,inHg,Invierno
+LEC-0771,Est. Desierto,1009.35,hPa,Verano
+LEC-0772,Est. Sierra,1023.26,hPa,Otoño
+LEC-0773,Est. Manglar,29.29,inHg,Canícula,dato_extra,47
+LEC-0774,Est. Laguna,29.4,inHg,Transición Primavera-Verano
+LEC-0775,Est. Selva,30.09,inHg,Verano
+LEC-0776,Est. Oriente,29.67,inHg,Temporada de lluvias
+LEC-0777,Est. Laguna,30.23,inHg,Transición Primavera-Verano
+LEC-0778,Est. Bosque,1001.46,hPa,Otoño
+LEC-0779,Est. Meseta,978.25,hPa,Otoño
+LEC-0780,Est. Volcán,28.85,inHg,Transición Otoño-Invierno
+LEC-0781,Est. Bahía,1037.15,hPa,Primavera
+LEC-0782,Est. Poniente,985.02,ZZ,Otoño
+LEC-0783,Est. Cañón,30.3,inHg,Otoño
+LEC-0784,Est. Costa,1015.31,hPa,Verano,dato_extra,71
+LEC-0785,Est. Montaña,30.68,inHg,Primavera
+LEC-0786,Est. Bosque,30.18,inHg,Transición Primavera-Verano
+LEC-0787,Est. Pradera,30.63,inHg,Transición Otoño-Invierno
+LEC-0788,Est. Río,30.64,inHg,Canícula
+LEC-0789,Est. Selva,29.2,inHg,Canícula
+LEC-0790,Est. Planicie,973.74,hPa,Otoño
+LEC-0791,Est. Sur,28.9,inHg,Otoño
+LEC-0792,Est. Montaña,973.85,hPa,Verano
+LEC-0793,Est. Río,29.22,inHg,Verano
+LEC-0794,Est. Cañón,29.6,inHg,Verano
+LEC-0795,Est. Valle,1034.77,hPa,Invierno
+LEC-0796,Est. Bosque,1018.08,hPa,Otoño
+
+LEC-0798,Est. Cañón,983.77,hPa,Verano
+LEC-0799,Est. Centro,30.19,inHg,Verano
+LEC-0800,Est. Cañón,29.14,inHg,Primavera
+LEC-0801,Est. Planicie,1008.81,hPa,Invierno
+LEC-0802,Est. Sur,30.29,inHg,Temporada de lluvias
+LEC-0803,Est. Meseta,965.71,hPa,Canícula
+LEC-0804,Est. Norte,988.82,hPa,Otoño
+LEC-0805,Est. Valle,29.43,inHg,Primavera
+LEC-0806,Est. Península,30.53,inHg,Transición Primavera-Verano
+
+LEC-0808,Est. Desierto,29.33,inHg,Transición Primavera-Verano
+LEC-0809,Est. Río,995.44,hPa,Temporada de lluvias
+LEC-0810,Est. Manglar,28.71,inHg,Canícula
+LEC-0811,Est. Centro,1013.94,hPa,Transición Otoño-Invierno
+LEC-0812,Est. Costa,28.91,inHg,Primavera
+LEC-0813,Est. Meseta,1006.77,hPa,Transición Otoño-Invierno
+LEC-0814,Est. Altiplano,984.92,hPa,Invierno
+LEC-0815,Est. Cañón,1010.99,hPa,Invierno
+LEC-0816,Est. Bahía,28.64,inHg,Otoño
+LEC-0817,Est. Norte,28.54,inHg,Temporada de lluvias
+LEC-0818,Est. Río,28.63,K,Canícula
+LEC-0819,Est. Valle,1048.13,hPa,Primavera
+LEC-0820,Est. Altiplano,28.59,inHg,Otoño
+LEC-0821,Est. Centro,996.15,hPa,Invierno
+LEC-0822,Est. Bahía,1015.61,hPa,Primavera
+LEC-0823,Est. Meseta,1025.07,hPa,Temporada de lluvias
+LEC-0824,Est. Centro,1018.55,hPa,Temporada de lluvias
+LEC-0825,Est. Pradera,982.85,hPa,Temporada de lluvias
+LEC-0826,Est. Río,28.97,inHg,Temporada de lluvias
+LEC-0827,Est. Bosque,999.96,hPa,Temporada de lluvias
+LEC-0828,Est. Planicie,1019.05,hPa,Transición Otoño-Invierno
+LEC-0829,Est. Norte,30.33,inHg,Transición Otoño-Invierno
+LEC-0830,Est. Istmo,29.77,inHg,Primavera
+LEC-0831,Est. Centro,29.04,inHg,Verano
+LEC-0832,Est. Centro,28.97,inHg,Transición Primavera-Verano
+LEC-0833,Est. Centro,997.13,hPa,Temporada de lluvias
+LEC-0834,Est. Selva,30.45,inHg,Temporada de lluvias
+LEC-0835,Est. Valle,991.36,hPa,Invierno
+LEC-0836,Est. Sur,28.95,inHg,Transición Primavera-Verano
+LEC-0837,Est. Sur,29.13,inHg,Transición Primavera-Verano
+LEC-0838,Est. Selva,1032.88,hPa,Verano
+LEC-0839,Est. Altiplano,1004.63,hPa,Temporada de lluvias
+LEC-0840,Est. Laguna,30.66,inHg,Otoño
+LEC-0841,Est. Altiplano,30.0,inHg,Verano
+LEC-0842,Est. Volcán,1018.18,hPa,Otoño
+LEC-0843,Est. Montaña,1025.56,hPa,Transición Primavera-Verano
+LEC-0844,Est. Poniente,28.57,inHg,Temporada de lluvias
+LEC-0845,Est. Desierto,995.21,hPa,Otoño
+LEC-0846,Est. Bosque,985.33,hPa,Temporada de lluvias
+LEC-0847,Est. Sur,1040.79,hPa,Transición Otoño-Invierno
+LEC-0848,Est. Altiplano,29.65,inHg,Temporada de lluvias
+LEC-0849,Est. Valle,null,inHg,Invierno
+LEC-0850,Est. Oriente,29.86,inHg,Primavera
+LEC-0851,Est. Meseta,1028.49,hPa,Invierno
+LEC-0852,Est. Valle,979.55,hPa,Canícula
+LEC-0853,Est. Bahía,29.96,inHg,Verano
+LEC-0854,Est. Península,1038.06,hPa,Invierno
+LEC-0855,Est. Bosque,30.38,inHg,Invierno
+LEC-0856,Est. Valle,986.91,ZZ,Canícula
+LEC-0857,Est. Montaña,1049.02,hPa,Temporada de lluvias
+LEC-0858,Est. Oriente,29.66,inHg,Verano
+LEC-0859,Est. Volcán,1029.9,hPa,Canícula
+LEC-0860,Est. Istmo,1019.54,hPa,Invierno,dato_extra,35
+LEC-0861,Est. Planicie,1038.31,hPa,Transición Primavera-Verano
+LEC-0862,Est. Montaña,995.35,hPa,Primavera,dato_extra,88
+LEC-0863,Est. Planicie,1033.22,hPa,Transición Primavera-Verano
+LEC-0864,Est. Península,30.55,inHg,Otoño
+LEC-0865,Est. Costa,977.33,hPa,Otoño
+LEC-0866,Est. Río,--,inHg,Transición Primavera-Verano
+LEC-0867,Est. Oriente,1014.57,hPa,Transición Otoño-Invierno
+LEC-0868,Est. Río,1040.2,hPa,Otoño
+LEC-0869,Est. Norte,997.96,hPa,Transición Otoño-Invierno
+LEC-0870,Est. Meseta,29.69,inHg,Invierno
+LEC-0871,Est. Volcán,30.94,inHg,Primavera
+LEC-0872,Est. Río,29.06,inHg,Canícula
+LEC-0873,Est. Meseta,1027.11,hPa,Temporada de lluvias
+LEC-0874,Est. Cañón,29.66,inHg,Temporada de lluvias
+LEC-0875,Est. Poniente,30.54,inHg,Transición Otoño-Invierno
+LEC-0876,Est. Desierto,30.97,inHg,Otoño
+LEC-0877,Est. Valle,28.97,inHg,Canícula
+LEC-0878,Est. Río,978.78,hPa,Transición Otoño-Invierno
+LEC-0879,Est. Río,984.16,hPa,Canícula
+LEC-0880,Est. Costa,30.69,inHg,Invierno
+LEC-0881,Est. Costa,1038.27,hPa,Temporada de lluvias
+LEC-0882,Est. Bahía,1001.47,hPa,Invierno
+LEC-0883,Est. Meseta,28.57,inHg,Transición Otoño-Invierno
+LEC-0884,Est. Meseta,998.86,hPa,Temporada de lluvias
+LEC-0885,Est. Pradera,1048.12,hPa,Otoño
+LEC-0886,Est. Costa,1018.62,hPa,Invierno
+LEC-0887,Est. Valle,967.71,hPa
+LEC-0888,Est. Istmo,28.83,inHg,Transición Primavera-Verano
+LEC-0889,Est. Volcán,982.84,hPa,Temporada de lluvias
+LEC-0890,Est. Norte,29.46,inHg,Transición Otoño-Invierno
+LEC-0891,Est. Istmo,1004.84,hPa,Primavera
+LEC-0892,Est. Volcán,30.58,inHg,Canícula
+LEC-0893,Est. Bosque,30.54,inHg,Otoño
+LEC-0894,Est. Volcán,966.3,hPa,Invierno
+LEC-0895,Est. Laguna,966.93,hPa,Otoño
+LEC-0896,Est. Desierto,1009.2,hPa,Canícula
+LEC-0897,Est. Manglar,28.69,inHg,Temporada de lluvias
+LEC-0898,Est. Sierra,1029.73,hPa,Verano
+LEC-0899,Est. Bosque,28.74,inHg,Invierno
+LEC-0900,Est. Río,29.5,inHg,Verano
+LEC-0901,Est. Laguna,982.15,hPa,Verano
+LEC-0902,Est. Poniente,29.5,inHg,Primavera
+LEC-0903,Est. Manglar,30.36,inHg,Invierno
+LEC-0904,Est. Costa,30.38,inHg,Canícula
+LEC-0905,Est. Laguna,30.15,inHg,Transición Otoño-Invierno
+LEC-0906,Est. Río,29.27,inHg,Canícula
+LEC-0907,Est. Volcán,973.83,hPa,Transición Primavera-Verano
+LEC-0908,Est. Norte,29.4,inHg,Otoño
+LEC-0909,Est. Poniente,979.44,hPa,Primavera
+LEC-0910,Est. Centro,998.12,,Canícula
+LEC-0911,Est. Cañón,996.3,hPa,Otoño
+LEC-0912,Est. Planicie,29.49,inHg,Primavera
+LEC-0913,Est. Desierto,975.06,hPa,Otoño
+LEC-0914,Est. Bahía,29.13,inHg,Transición Primavera-Verano
+LEC-0915,Est. Desierto,30.58,inHg,Transición Primavera-Verano
+LEC-0916,Est. Centro,1007.89,hPa,Transición Primavera-Verano
+LEC-0917,Est. Selva,30.65,inHg,Canícula
+LEC-0918,Est. Meseta,29.68,inHg,Primavera,dato_extra,21
+LEC-0919,Est. Península,28.8,inHg
+LEC-0920,Est. Península,1021.22,X,Transición Otoño-Invierno
+LEC-0921,Est. Bosque,29.8,inHg,Canícula
+LEC-0922,Est. Centro,988.68,hPa,Canícula
+LEC-0923,Est. Sierra,1045.0,hPa,Canícula
+LEC-0924,Est. Planicie,988.91,hPa,Transición Otoño-Invierno
+LEC-0925,Est. Bahía,1013.67,hPa,Invierno,dato_extra,80
+LEC-0926,Est. Bosque,29.58,inHg,Invierno
+LEC-0927,Est. Poniente,29.31,inHg,Canícula
+LEC-0928,Est. Valle,1022.29,hPa,Otoño
+LEC-0929,Est. Sierra,966.39,hPa,Transición Otoño-Invierno
+LEC-0930,Est. Costa,29.8,inHg,Verano
+LEC-0931,Est. Manglar,30.96,inHg,Otoño,dato_extra,15
+LEC-0932,Est. Norte,28.6,inHg,Temporada de lluvias
+LEC-0933,Est. Desierto,30.95,inHg,Otoño
+LEC-0934,Est. Istmo,30.42,inHg,Otoño
+LEC-0935,Est. Río,1017.75,ZZ,Otoño
+LEC-0936,Est. Valle,29.93,inHg,Primavera
+LEC-0937,Est. Selva,1018.16,hPa,Transición Otoño-Invierno
+LEC-0938,Est. Istmo,30.45,inHg,Transición Primavera-Verano
+LEC-0939,Est. Valle
+LEC-0940,Est. Montaña,965.24,hPa,Temporada de lluvias
+LEC-0941,Est. Cañón,28.89,inHg,Transición Otoño-Invierno
+LEC-0942,Est. Sur,1003.05,hPa,Otoño
+LEC-0943,Est. Planicie,1041.88,hPa,Temporada de lluvias
+LEC-0944,Est. Sierra,30.73,,Invierno
+LEC-0945,Est. Sierra,30.02,inHg,Temporada de lluvias
+LEC-0946,Est. Volcán,29.82,inHg,Invierno
+LEC-0947,Est. Pradera,1033.49,hPa,Verano
+LEC-0948,Est. Poniente,1047.4,?,Otoño
+LEC-0949,Est. Volcán,988.27,hPa,Primavera
+LEC-0950,Est. Volcán,998.01,hPa,Transición Primavera-Verano
+LEC-0951,Est. Sierra,1003.98,hPa,Verano
+LEC-0952,Est. Bosque,984.96,hPa,Transición Otoño-Invierno
+LEC-0953,Est. Poniente,28.75,inHg,Otoño
+LEC-0954,Est. Oriente,980.67,hPa,Primavera
+LEC-0955,Est. Bosque,29.32,inHg,Canícula
+LEC-0956,Est. Selva,N/A,hPa,Temporada de lluvias
+LEC-0957,Est. Volcán,1015.97,hPa,Transición Otoño-Invierno
+LEC-0958,Est. Valle,28.93,inHg,Transición Primavera-Verano
+LEC-0959,Est. Sur,29.63,inHg,Otoño
+LEC-0960,Est. Valle,1048.62,hPa,Temporada de lluvias
+LEC-0961,Est. Sierra,30.16,inHg,Otoño
+LEC-0962,Est. Volcán,998.17,hPa,Canícula
+LEC-0963,Est. Oriente,1039.83,hPa,Otoño
+LEC-0964,Est. Península,29.36,inHg,Primavera,dato_extra,6
+LEC-0965,Est. Meseta,30.76,inHg,Verano
+LEC-0966,Est. Sierra,28.62,inHg,Canícula
+LEC-0967,Est. Desierto,1014.9,hPa,Transición Primavera-Verano
+LEC-0968,Est. Poniente,1022.75,hPa,Invierno
+LEC-0969,Est. Centro,973.54,hPa,Transición Otoño-Invierno
+LEC-0970,Est. Valle,29.73,inHg,Primavera
+LEC-0971,Est. Sierra,987.51,hPa,Transición Otoño-Invierno
+
+LEC-0973,Est. Volcán,981.08,hPa,Verano
+LEC-0974,Est. Poniente,28.73,inHg,Primavera
+LEC-0975,Est. Río,995.37,hPa,Verano
+
+LEC-0977,Est. Montaña,29.55,inHg,Invierno
+LEC-0978,Est. Istmo,error,hPa,Primavera
+LEC-0979,Est. Cañón,1016.38,hPa,Invierno
+LEC-0980,Est. Volcán,30.53,inHg,Transición Otoño-Invierno
+LEC-0981,Est. Manglar,28.64,inHg,Otoño
+LEC-0982,Est. Bahía,1001.41,hPa,Canícula
+LEC-0983,Est. Península,29.12,inHg,Canícula
+LEC-0984,Est. Costa,30.64,inHg,Primavera,dato_extra,8
+LEC-0985,Est. Valle,990.49,hPa,Invierno
+LEC-0986,Est. Altiplano
+LEC-0987,Est. Sur,1027.82,hPa,Invierno
+LEC-0988,Est. Centro,28.86,inHg,Primavera
+LEC-0989,Est. Oriente,28.69,inHg,Verano
+LEC-0990,Est. Sur,29.69,inHg,Canícula
+LEC-0991,Est. Selva,28.63,inHg,Verano
+LEC-0992,Est. Poniente,967.3,hPa,Primavera
+LEC-0993,Est. Poniente,30.48,inHg,Transición Otoño-Invierno
+LEC-0994,Est. Istmo,30.92,inHg,Verano
+LEC-0995,Est. Sur,1036.32,hPa,Transición Otoño-Invierno
+LEC-0996,Est. Montaña,30.44,inHg,Transición Primavera-Verano
+LEC-0997,Est. Península,29.68,inHg,Primavera
+LEC-0998,Est. Costa,30.59,inHg,Transición Otoño-Invierno
+LEC-0999,Est. Bosque,1027.9,hPa,Canícula
+LEC-1000,Est. Cañón,29.32,inHg,Transición Primavera-Verano
