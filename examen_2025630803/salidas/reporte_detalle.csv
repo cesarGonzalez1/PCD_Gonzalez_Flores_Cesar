@@ -1,0 +1,914 @@
+id_lectura,estacion,temporada,presion_hpa,nivel_presion
+LEC-0001,Est. Sierra,Verano,1043.0,Muy alta
+LEC-0003,Est. Planicie,Otoño,1007.6,Baja
+LEC-0004,Est. Sur,Transición Primavera-Verano,1003.8,Baja
+LEC-0005,Est. Planicie,Primavera,1030.1,Alta
+LEC-0006,Est. Poniente,Temporada de lluvias,1049.4,Muy alta
+LEC-0007,Est. Manglar,Invierno,1004.8,Baja
+LEC-0008,Est. Desierto,Transición Otoño-Invierno,1034.5,Muy alta
+LEC-0009,Est. Bosque,Transición Otoño-Invierno,969.2,Muy baja
+LEC-0010,Est. Península,Transición Otoño-Invierno,1019.9,Normal
+LEC-0011,Est. Poniente,Verano,1037.6,Muy alta
+LEC-0012,Est. Poniente,Temporada de lluvias,1010.8,Normal
+LEC-0013,Est. Altiplano,Verano,1025.0,Alta
+LEC-0014,Est. Pradera,Transición Otoño-Invierno,969.2,Muy baja
+LEC-0015,Est. Bosque,Temporada de lluvias,1018.3,Normal
+LEC-0016,Est. Meseta,Primavera,988.1,Muy baja
+LEC-0017,Est. Cañón,Verano,1046.2,Muy alta
+LEC-0019,Est. Pradera,Temporada de lluvias,977.0,Muy baja
+LEC-0020,Est. Norte,Primavera,977.0,Muy baja
+LEC-0021,Est. Desierto,Primavera,1035.9,Muy alta
+LEC-0022,Est. Sur,Verano,1026.1,Alta
+LEC-0023,Est. Costa,Invierno,1025.4,Alta
+LEC-0024,Est. Meseta,Canícula,1011.9,Normal
+LEC-0025,Est. Selva,Invierno,1048.9,Muy alta
+LEC-0026,Est. Selva,Primavera,994.2,Muy baja
+LEC-0027,Est. Manglar,Canícula,1018.6,Normal
+LEC-0028,Est. Cañón,Transición Otoño-Invierno,1005.7,Baja
+LEC-0029,Est. Laguna,Primavera,1005.4,Baja
+LEC-0030,Est. Valle,Canícula,977.0,Muy baja
+LEC-0031,Est. Sierra,Transición Primavera-Verano,988.5,Muy baja
+LEC-0032,Est. Altiplano,Transición Primavera-Verano,975.6,Muy baja
+LEC-0033,Est. Meseta,Invierno,987.1,Muy baja
+LEC-0034,Est. Meseta,Primavera,989.2,Muy baja
+LEC-0035,Est. Montaña,Verano,966.5,Muy baja
+LEC-0036,Est. Bosque,Transición Primavera-Verano,999.9,Baja
+LEC-0037,Est. Manglar,Verano,1035.6,Muy alta
+LEC-0038,Est. Altiplano,Primavera,1003.5,Baja
+LEC-0039,Est. Manglar,Transición Primavera-Verano,984.4,Muy baja
+LEC-0040,Est. Península,Invierno,1015.9,Normal
+LEC-0041,Est. Selva,Verano,966.8,Muy baja
+LEC-0042,Est. Istmo,Canícula,1013.2,Normal
+LEC-0043,Est. Valle,Transición Otoño-Invierno,1047.1,Muy alta
+LEC-0044,Est. Centro,Verano,1039.6,Muy alta
+LEC-0045,Est. Cañón,Verano,1023.3,Alta
+LEC-0046,Est. Meseta,Transición Otoño-Invierno,994.3,Muy baja
+LEC-0047,Est. Bahía,Transición Otoño-Invierno,1012.9,Normal
+LEC-0048,Est. Cañón,Invierno,976.6,Muy baja
+LEC-0049,Est. Selva,Transición Otoño-Invierno,1000.7,Baja
+LEC-0050,Est. Montaña,Temporada de lluvias,1042.0,Muy alta
+LEC-0051,Est. Meseta,Canícula,1023.7,Alta
+LEC-0052,Est. Río,Primavera,1037.9,Muy alta
+LEC-0053,Est. Volcán,Transición Primavera-Verano,1004.6,Baja
+LEC-0054,Est. Bosque,Otoño,989.5,Muy baja
+LEC-0055,Est. Altiplano,Transición Otoño-Invierno,1021.7,Alta
+LEC-0056,Est. Bahía,Otoño,979.0,Muy baja
+LEC-0057,Est. Istmo,Primavera,995.6,Muy baja
+LEC-0058,Est. Costa,Verano,993.1,Muy baja
+LEC-0059,Est. Sur,Temporada de lluvias,988.0,Muy baja
+LEC-0060,Est. Bahía,Transición Otoño-Invierno,1027.4,Alta
+LEC-0061,Est. Sierra,Invierno,1044.0,Muy alta
+LEC-0062,Est. Laguna,Transición Otoño-Invierno,1015.9,Normal
+LEC-0063,Est. Manglar,Primavera,1024.2,Alta
+LEC-0064,Est. Cañón,Canícula,1014.8,Normal
+LEC-0065,Est. Istmo,Transición Otoño-Invierno,1039.3,Muy alta
+LEC-0066,Est. Costa,Verano,1017.6,Normal
+LEC-0068,Est. Desierto,Transición Otoño-Invierno,1002.7,Baja
+LEC-0069,Est. Río,Otoño,970.2,Muy baja
+LEC-0070,Est. Centro,Invierno,965.4,Muy baja
+LEC-0071,Est. Oriente,Transición Otoño-Invierno,1043.0,Muy alta
+LEC-0072,Est. Sur,Transición Otoño-Invierno,1032.5,Muy alta
+LEC-0073,Est. Meseta,Transición Otoño-Invierno,980.5,Muy baja
+LEC-0074,Est. Río,Otoño,1029.1,Alta
+LEC-0075,Est. Río,Otoño,1026.4,Alta
+LEC-0076,Est. Bosque,Transición Otoño-Invierno,1001.0,Baja
+LEC-0077,Est. Poniente,Verano,1009.0,Baja
+LEC-0078,Est. Río,Verano,1001.0,Baja
+LEC-0080,Est. Pradera,Canícula,994.6,Muy baja
+LEC-0081,Est. Cañón,Temporada de lluvias,975.4,Muy baja
+LEC-0082,Est. Manglar,Canícula,968.3,Muy baja
+LEC-0084,Est. Montaña,Verano,998.3,Baja
+LEC-0085,Est. Manglar,Canícula,1001.0,Baja
+LEC-0086,Est. Meseta,Transición Otoño-Invierno,1008.7,Baja
+LEC-0087,Est. Montaña,Verano,1033.9,Muy alta
+LEC-0090,Est. Costa,Transición Otoño-Invierno,1023.6,Alta
+LEC-0091,Est. Oriente,Temporada de lluvias,1006.4,Baja
+LEC-0092,Est. Península,Canícula,980.0,Muy baja
+LEC-0093,Est. Costa,Transición Primavera-Verano,1040.6,Muy alta
+LEC-0094,Est. Montaña,Otoño,987.5,Muy baja
+LEC-0096,Est. Península,Invierno,989.4,Muy baja
+LEC-0097,Est. Río,Transición Otoño-Invierno,966.8,Muy baja
+LEC-0098,Est. Volcán,Canícula,977.7,Muy baja
+LEC-0099,Est. Río,Canícula,1022.0,Alta
+LEC-0100,Est. Volcán,Temporada de lluvias,991.4,Muy baja
+LEC-0101,Est. Centro,Transición Primavera-Verano,1015.4,Normal
+LEC-0103,Est. Laguna,Temporada de lluvias,996.2,Muy baja
+LEC-0104,Est. Valle,Transición Primavera-Verano,1026.5,Alta
+LEC-0105,Est. Valle,Invierno,1031.8,Alta
+LEC-0107,Est. Selva,Transición Primavera-Verano,999.3,Baja
+LEC-0108,Est. Poniente,Verano,979.0,Muy baja
+LEC-0109,Est. Bosque,Primavera,1009.5,Baja
+LEC-0110,Est. Istmo,Otoño,1012.9,Normal
+LEC-0111,Est. Bahía,Canícula,988.7,Muy baja
+LEC-0112,Est. Selva,Invierno,1039.3,Muy alta
+LEC-0113,Est. Norte,Primavera,1035.6,Muy alta
+LEC-0114,Est. Sierra,Transición Primavera-Verano,1029.3,Alta
+LEC-0116,Est. Península,Otoño,988.2,Muy baja
+LEC-0119,Est. Norte,Otoño,1003.1,Baja
+LEC-0120,Est. Selva,Transición Primavera-Verano,985.8,Muy baja
+LEC-0121,Est. Desierto,Transición Otoño-Invierno,966.6,Muy baja
+LEC-0122,Est. Sierra,Otoño,1049.7,Muy alta
+LEC-0123,Est. Selva,Transición Otoño-Invierno,997.6,Baja
+LEC-0124,Est. Bosque,Transición Otoño-Invierno,976.8,Muy baja
+LEC-0125,Est. Desierto,Primavera,1024.5,Alta
+LEC-0126,Est. Oriente,Invierno,996.6,Muy baja
+LEC-0127,Est. Altiplano,Transición Otoño-Invierno,967.2,Muy baja
+LEC-0128,Est. Río,Invierno,1015.9,Normal
+LEC-0129,Est. Laguna,Primavera,1039.1,Muy alta
+LEC-0130,Est. Istmo,Canícula,999.4,Baja
+LEC-0131,Est. Sierra,Otoño,1024.0,Alta
+LEC-0132,Est. Volcán,Otoño,1033.5,Muy alta
+LEC-0133,Est. Selva,Invierno,985.0,Muy baja
+LEC-0134,Est. Cañón,Verano,980.4,Muy baja
+LEC-0135,Est. Bosque,Canícula,1005.4,Baja
+LEC-0136,Est. Río,Invierno,1044.6,Muy alta
+LEC-0137,Est. Valle,Otoño,1008.8,Baja
+LEC-0138,Est. Norte,Transición Primavera-Verano,1026.8,Alta
+LEC-0139,Est. Planicie,Verano,1016.0,Normal
+LEC-0140,Est. Istmo,Transición Otoño-Invierno,991.2,Muy baja
+LEC-0141,Est. Montaña,Primavera,976.0,Muy baja
+LEC-0142,Est. Costa,Primavera,1016.8,Normal
+LEC-0143,Est. Bahía,Primavera,1038.1,Muy alta
+LEC-0144,Est. Meseta,Transición Otoño-Invierno,999.5,Baja
+LEC-0146,Est. Manglar,Transición Otoño-Invierno,983.7,Muy baja
+LEC-0147,Est. Planicie,Primavera,1005.4,Baja
+LEC-0148,Est. Bosque,Transición Otoño-Invierno,1040.8,Muy alta
+LEC-0149,Est. Planicie,Primavera,995.9,Muy baja
+LEC-0150,Est. Valle,Canícula,1005.8,Baja
+LEC-0151,Est. Volcán,Canícula,1007.1,Baja
+LEC-0152,Est. Río,Verano,966.0,Muy baja
+LEC-0153,Est. Desierto,Temporada de lluvias,967.4,Muy baja
+LEC-0154,Est. Pradera,Otoño,988.5,Muy baja
+LEC-0155,Est. Península,Transición Otoño-Invierno,1048.7,Muy alta
+LEC-0157,Est. Volcán,Transición Primavera-Verano,999.7,Baja
+LEC-0158,Est. Selva,Primavera,976.0,Muy baja
+LEC-0159,Est. Norte,Otoño,1016.3,Normal
+LEC-0160,Est. Volcán,Otoño,966.8,Muy baja
+LEC-0161,Est. Laguna,Verano,968.5,Muy baja
+LEC-0162,Est. Sur,Transición Primavera-Verano,973.5,Muy baja
+LEC-0163,Est. Pradera,Otoño,1019.6,Normal
+LEC-0164,Est. Laguna,Transición Otoño-Invierno,1041.6,Muy alta
+LEC-0165,Est. Desierto,Invierno,973.2,Muy baja
+LEC-0166,Est. Sur,Canícula,1048.0,Muy alta
+LEC-0167,Est. Meseta,Primavera,1023.9,Alta
+LEC-0168,Est. Costa,Invierno,1033.9,Muy alta
+LEC-0169,Est. Istmo,Otoño,1018.6,Normal
+LEC-0170,Est. Península,Transición Primavera-Verano,1008.1,Baja
+LEC-0171,Est. Norte,Primavera,992.6,Muy baja
+LEC-0172,Est. Costa,Otoño,1008.5,Baja
+LEC-0173,Est. Bahía,Temporada de lluvias,1034.3,Muy alta
+LEC-0174,Est. Istmo,Canícula,971.0,Muy baja
+LEC-0175,Est. Costa,Transición Primavera-Verano,1012.5,Normal
+LEC-0176,Est. Sur,Primavera,1005.4,Baja
+LEC-0177,Est. Centro,Verano,1016.1,Normal
+LEC-0178,Est. Bosque,Transición Primavera-Verano,970.1,Muy baja
+LEC-0179,Est. Poniente,Invierno,972.7,Muy baja
+LEC-0180,Est. Bahía,Invierno,1036.8,Muy alta
+LEC-0181,Est. Oriente,Primavera,1029.5,Alta
+LEC-0182,Est. Planicie,Invierno,1030.5,Alta
+LEC-0183,Est. Península,Canícula,1027.8,Alta
+LEC-0184,Est. Istmo,Transición Otoño-Invierno,1021.7,Alta
+LEC-0185,Est. Oriente,Primavera,1027.1,Alta
+LEC-0186,Est. Laguna,Invierno,1006.8,Baja
+LEC-0187,Est. Planicie,Invierno,1022.7,Alta
+LEC-0188,Est. Valle,Transición Primavera-Verano,1038.3,Muy alta
+LEC-0189,Est. Río,Transición Otoño-Invierno,1045.7,Muy alta
+LEC-0190,Est. Planicie,Verano,1047.1,Muy alta
+LEC-0191,Est. Altiplano,Invierno,975.3,Muy baja
+LEC-0192,Est. Desierto,Temporada de lluvias,970.4,Muy baja
+LEC-0193,Est. Altiplano,Invierno,1040.0,Muy alta
+LEC-0194,Est. Valle,Invierno,1045.0,Muy alta
+LEC-0195,Est. Istmo,Temporada de lluvias,1029.4,Alta
+LEC-0196,Est. Sur,Verano,999.3,Baja
+LEC-0197,Est. Valle,Temporada de lluvias,1035.8,Muy alta
+LEC-0198,Est. Montaña,Canícula,1009.8,Baja
+LEC-0200,Est. Sierra,Transición Primavera-Verano,993.3,Muy baja
+LEC-0201,Est. Altiplano,Invierno,991.9,Muy baja
+LEC-0202,Est. Cañón,Temporada de lluvias,997.6,Baja
+LEC-0203,Est. Planicie,Transición Primavera-Verano,1025.4,Alta
+LEC-0204,Est. Pradera,Canícula,987.5,Muy baja
+LEC-0205,Est. Oriente,Verano,972.9,Muy baja
+LEC-0206,Est. Bahía,Transición Otoño-Invierno,1030.8,Alta
+LEC-0207,Est. Desierto,Transición Otoño-Invierno,1025.4,Alta
+LEC-0208,Est. Centro,Otoño,1013.1,Normal
+LEC-0209,Est. Volcán,Otoño,1014.3,Normal
+LEC-0210,Est. Bosque,Primavera,988.4,Muy baja
+LEC-0212,Est. Valle,Invierno,1004.1,Baja
+LEC-0213,Est. Selva,Canícula,1035.2,Muy alta
+LEC-0214,Est. Selva,Canícula,1018.5,Normal
+LEC-0215,Est. Cañón,Verano,1022.3,Alta
+LEC-0216,Est. Poniente,Otoño,977.0,Muy baja
+LEC-0217,Est. Pradera,Transición Otoño-Invierno,982.4,Muy baja
+LEC-0218,Est. Norte,Verano,967.5,Muy baja
+LEC-0219,Est. Manglar,Temporada de lluvias,988.7,Muy baja
+LEC-0220,Est. Pradera,Otoño,983.1,Muy baja
+LEC-0221,Est. Península,Invierno,1014.2,Normal
+LEC-0222,Est. Río,Canícula,1033.2,Muy alta
+LEC-0223,Est. Selva,Otoño,1030.1,Alta
+LEC-0224,Est. Península,Invierno,1010.5,Normal
+LEC-0225,Est. Laguna,Otoño,1002.6,Baja
+LEC-0226,Est. Norte,Canícula,1014.2,Normal
+LEC-0227,Est. Sierra,Verano,1001.0,Baja
+LEC-0228,Est. Pradera,Otoño,1024.4,Alta
+LEC-0229,Est. Istmo,Primavera,1035.1,Muy alta
+LEC-0230,Est. Selva,Transición Otoño-Invierno,1010.1,Baja
+LEC-0231,Est. Manglar,Primavera,1018.9,Normal
+LEC-0232,Est. Pradera,Primavera,1013.2,Normal
+LEC-0233,Est. Río,Invierno,1037.0,Muy alta
+LEC-0234,Est. Istmo,Temporada de lluvias,1021.3,Alta
+LEC-0235,Est. Oriente,Transición Primavera-Verano,1021.3,Alta
+LEC-0236,Est. Centro,Transición Primavera-Verano,1041.5,Muy alta
+LEC-0237,Est. Centro,Temporada de lluvias,1021.3,Alta
+LEC-0238,Est. Sur,Canícula,1046.5,Muy alta
+LEC-0239,Est. Istmo,Verano,1035.6,Muy alta
+LEC-0240,Est. Meseta,Invierno,1004.1,Baja
+LEC-0242,Est. Cañón,Transición Otoño-Invierno,990.2,Muy baja
+LEC-0243,Est. Laguna,Temporada de lluvias,1025.1,Alta
+LEC-0244,Est. Planicie,Transición Primavera-Verano,1048.8,Muy alta
+LEC-0245,Est. Centro,Transición Primavera-Verano,997.1,Muy baja
+LEC-0246,Est. Oriente,Otoño,1016.6,Normal
+LEC-0247,Est. Pradera,Verano,1005.8,Baja
+LEC-0248,Est. Planicie,Invierno,984.1,Muy baja
+LEC-0249,Est. Bahía,Primavera,979.3,Muy baja
+LEC-0250,Est. Costa,Otoño,975.3,Muy baja
+LEC-0251,Est. Desierto,Verano,973.1,Muy baja
+LEC-0252,Est. Río,Primavera,982.7,Muy baja
+LEC-0253,Est. Río,Otoño,989.5,Muy baja
+LEC-0254,Est. Selva,Transición Primavera-Verano,1043.3,Muy alta
+LEC-0255,Est. Pradera,Temporada de lluvias,1024.7,Alta
+LEC-0256,Est. Laguna,Transición Otoño-Invierno,982.1,Muy baja
+LEC-0257,Est. Costa,Primavera,993.7,Muy baja
+LEC-0258,Est. Altiplano,Otoño,976.3,Muy baja
+LEC-0259,Est. Oriente,Verano,1000.8,Baja
+LEC-0260,Est. Bosque,Canícula,965.3,Muy baja
+LEC-0261,Est. Desierto,Otoño,1030.5,Alta
+LEC-0262,Est. Selva,Temporada de lluvias,1002.0,Baja
+LEC-0263,Est. Sur,Temporada de lluvias,1017.3,Normal
+LEC-0264,Est. Planicie,Verano,969.8,Muy baja
+LEC-0265,Est. Río,Primavera,1038.2,Muy alta
+LEC-0266,Est. Manglar,Otoño,1036.2,Muy alta
+LEC-0267,Est. Valle,Transición Otoño-Invierno,986.4,Muy baja
+LEC-0268,Est. Volcán,Transición Primavera-Verano,976.7,Muy baja
+LEC-0269,Est. Valle,Invierno,1045.6,Muy alta
+LEC-0270,Est. Sur,Transición Otoño-Invierno,1040.3,Muy alta
+LEC-0271,Est. Desierto,Transición Primavera-Verano,1005.9,Baja
+LEC-0272,Est. Pradera,Transición Primavera-Verano,983.1,Muy baja
+LEC-0274,Est. Norte,Canícula,1003.7,Baja
+LEC-0275,Est. Norte,Canícula,966.2,Muy baja
+LEC-0276,Est. Costa,Transición Otoño-Invierno,986.8,Muy baja
+LEC-0278,Est. Selva,Transición Primavera-Verano,1016.3,Normal
+LEC-0279,Est. Bahía,Transición Otoño-Invierno,968.2,Muy baja
+LEC-0280,Est. Meseta,Temporada de lluvias,980.7,Muy baja
+LEC-0281,Est. Planicie,Otoño,1031.3,Alta
+LEC-0282,Est. Bosque,Canícula,992.2,Muy baja
+LEC-0284,Est. Centro,Otoño,1033.8,Muy alta
+LEC-0285,Est. Valle,Otoño,972.2,Muy baja
+LEC-0287,Est. Río,Canícula,966.8,Muy baja
+LEC-0288,Est. Altiplano,Transición Otoño-Invierno,979.6,Muy baja
+LEC-0289,Est. Península,Verano,970.8,Muy baja
+LEC-0290,Est. Montaña,Otoño,973.6,Muy baja
+LEC-0292,Est. Valle,Canícula,981.2,Muy baja
+LEC-0293,Est. Istmo,Primavera,1024.7,Alta
+LEC-0294,Est. Montaña,Verano,1037.9,Muy alta
+LEC-0295,Est. Laguna,Transición Otoño-Invierno,993.6,Muy baja
+LEC-0296,Est. Planicie,Invierno,991.0,Muy baja
+LEC-0297,Est. Laguna,Temporada de lluvias,975.6,Muy baja
+LEC-0298,Est. Manglar,Invierno,966.2,Muy baja
+LEC-0299,Est. Centro,Otoño,989.8,Muy baja
+LEC-0300,Est. Istmo,Transición Primavera-Verano,1005.1,Baja
+LEC-0301,Est. Istmo,Verano,994.9,Muy baja
+LEC-0303,Est. Planicie,Transición Primavera-Verano,1033.7,Muy alta
+LEC-0304,Est. Montaña,Otoño,1002.7,Baja
+LEC-0305,Est. Norte,Transición Otoño-Invierno,1022.9,Alta
+LEC-0306,Est. Meseta,Invierno,1015.0,Normal
+LEC-0307,Est. Istmo,Primavera,965.7,Muy baja
+LEC-0308,Est. Manglar,Canícula,981.7,Muy baja
+LEC-0309,Est. Pradera,Otoño,1018.3,Normal
+LEC-0310,Est. Costa,Transición Otoño-Invierno,1011.9,Normal
+LEC-0311,Est. Oriente,Temporada de lluvias,1000.3,Baja
+LEC-0312,Est. Planicie,Primavera,983.6,Muy baja
+LEC-0314,Est. Poniente,Canícula,1007.5,Baja
+LEC-0315,Est. Norte,Transición Otoño-Invierno,1045.7,Muy alta
+LEC-0316,Est. Bosque,Invierno,985.1,Muy baja
+LEC-0317,Est. Meseta,Temporada de lluvias,977.9,Muy baja
+LEC-0318,Est. Desierto,Verano,973.0,Muy baja
+LEC-0319,Est. Bosque,Otoño,1046.5,Muy alta
+LEC-0320,Est. Norte,Primavera,984.9,Muy baja
+LEC-0321,Est. Istmo,Transición Primavera-Verano,1022.9,Alta
+LEC-0322,Est. Meseta,Verano,1015.9,Normal
+LEC-0323,Est. Bosque,Canícula,966.9,Muy baja
+LEC-0325,Est. Volcán,Verano,1031.5,Alta
+LEC-0326,Est. Planicie,Primavera,1048.1,Muy alta
+LEC-0328,Est. Volcán,Otoño,1007.0,Baja
+LEC-0329,Est. Desierto,Temporada de lluvias,981.0,Muy baja
+LEC-0330,Est. Selva,Canícula,1047.8,Muy alta
+LEC-0332,Est. Laguna,Transición Otoño-Invierno,1044.9,Muy alta
+LEC-0333,Est. Manglar,Invierno,969.9,Muy baja
+LEC-0334,Est. Altiplano,Primavera,1006.0,Baja
+LEC-0335,Est. Bahía,Canícula,1006.3,Baja
+LEC-0336,Est. Manglar,Otoño,969.5,Muy baja
+LEC-0338,Est. Valle,Transición Otoño-Invierno,1014.8,Normal
+LEC-0339,Est. Planicie,Temporada de lluvias,1009.7,Baja
+LEC-0340,Est. Istmo,Temporada de lluvias,1024.4,Alta
+LEC-0341,Est. Cañón,Temporada de lluvias,1015.2,Normal
+LEC-0344,Est. Selva,Invierno,1024.0,Alta
+LEC-0345,Est. Istmo,Canícula,999.7,Baja
+LEC-0346,Est. Desierto,Otoño,1040.3,Muy alta
+LEC-0347,Est. Bosque,Primavera,1009.1,Baja
+LEC-0348,Est. Bosque,Canícula,976.4,Muy baja
+LEC-0349,Est. Río,Canícula,979.3,Muy baja
+LEC-0350,Est. Sur,Otoño,1015.3,Normal
+LEC-0351,Est. Cañón,Invierno,1021.0,Normal
+LEC-0352,Est. Volcán,Transición Primavera-Verano,1027.4,Alta
+LEC-0353,Est. Pradera,Primavera,990.9,Muy baja
+LEC-0354,Est. Península,Transición Otoño-Invierno,967.8,Muy baja
+LEC-0355,Est. Meseta,Primavera,971.6,Muy baja
+LEC-0356,Est. Laguna,Transición Otoño-Invierno,999.9,Baja
+LEC-0357,Est. Istmo,Verano,992.2,Muy baja
+LEC-0358,Est. Laguna,Invierno,1032.1,Muy alta
+LEC-0359,Est. Altiplano,Temporada de lluvias,986.1,Muy baja
+LEC-0360,Est. Oriente,Transición Primavera-Verano,1026.9,Alta
+LEC-0361,Est. Meseta,Invierno,1031.9,Alta
+LEC-0362,Est. Volcán,Temporada de lluvias,966.0,Muy baja
+LEC-0363,Est. Sur,Invierno,1044.8,Muy alta
+LEC-0364,Est. Sur,Transición Otoño-Invierno,1009.1,Baja
+LEC-0365,Est. Península,Transición Otoño-Invierno,1015.9,Normal
+LEC-0366,Est. Río,Transición Primavera-Verano,976.0,Muy baja
+LEC-0368,Est. Norte,Temporada de lluvias,968.8,Muy baja
+LEC-0369,Est. Manglar,Transición Otoño-Invierno,1011.3,Normal
+LEC-0370,Est. Manglar,Invierno,1049.4,Muy alta
+LEC-0371,Est. Planicie,Transición Primavera-Verano,968.8,Muy baja
+LEC-0372,Est. Planicie,Temporada de lluvias,1022.0,Alta
+LEC-0373,Est. Sur,Transición Primavera-Verano,1037.2,Muy alta
+LEC-0374,Est. Sur,Primavera,1021.0,Normal
+LEC-0375,Est. Costa,Transición Primavera-Verano,1023.4,Alta
+LEC-0376,Est. Meseta,Transición Otoño-Invierno,1045.0,Muy alta
+LEC-0377,Est. Istmo,Transición Otoño-Invierno,1004.3,Baja
+LEC-0378,Est. Desierto,Invierno,966.0,Muy baja
+LEC-0379,Est. Norte,Otoño,1025.1,Alta
+LEC-0380,Est. Montaña,Canícula,1036.6,Muy alta
+LEC-0382,Est. Oriente,Verano,1012.5,Normal
+LEC-0383,Est. Istmo,Canícula,991.9,Muy baja
+LEC-0385,Est. Meseta,Canícula,1016.7,Normal
+LEC-0386,Est. Manglar,Temporada de lluvias,1002.4,Baja
+LEC-0387,Est. Cañón,Temporada de lluvias,1049.1,Muy alta
+LEC-0388,Est. Costa,Primavera,1029.7,Alta
+LEC-0389,Est. Río,Transición Otoño-Invierno,967.5,Muy baja
+LEC-0390,Est. Altiplano,Otoño,1024.4,Alta
+LEC-0391,Est. Norte,Temporada de lluvias,995.9,Muy baja
+LEC-0392,Est. Valle,Transición Primavera-Verano,973.6,Muy baja
+LEC-0393,Est. Manglar,Temporada de lluvias,1025.4,Alta
+LEC-0394,Est. Planicie,Verano,995.2,Muy baja
+LEC-0395,Est. Montaña,Invierno,984.4,Muy baja
+LEC-0397,Est. Istmo,Transición Otoño-Invierno,968.2,Muy baja
+LEC-0398,Est. Península,Transición Otoño-Invierno,1032.4,Muy alta
+LEC-0399,Est. Bahía,Primavera,1016.9,Normal
+LEC-0400,Est. Montaña,Canícula,1048.9,Muy alta
+LEC-0401,Est. Istmo,Transición Primavera-Verano,1006.4,Baja
+LEC-0402,Est. Península,Primavera,1048.6,Muy alta
+LEC-0403,Est. Centro,Temporada de lluvias,991.8,Muy baja
+LEC-0404,Est. Bosque,Canícula,1022.5,Alta
+LEC-0407,Est. Desierto,Primavera,977.3,Muy baja
+LEC-0408,Est. Valle,Verano,983.1,Muy baja
+LEC-0409,Est. Bahía,Temporada de lluvias,967.6,Muy baja
+LEC-0410,Est. Laguna,Primavera,1042.6,Muy alta
+LEC-0412,Est. Centro,Transición Otoño-Invierno,969.2,Muy baja
+LEC-0413,Est. Centro,Canícula,1036.9,Muy alta
+LEC-0414,Est. Poniente,Transición Primavera-Verano,1047.6,Muy alta
+LEC-0415,Est. Laguna,Temporada de lluvias,1042.0,Muy alta
+LEC-0416,Est. Montaña,Otoño,1015.9,Normal
+LEC-0417,Est. Volcán,Transición Primavera-Verano,1026.4,Alta
+LEC-0418,Est. Pradera,Primavera,1017.3,Normal
+LEC-0419,Est. Pradera,Primavera,969.1,Muy baja
+LEC-0420,Est. Norte,Verano,1039.6,Muy alta
+LEC-0421,Est. Norte,Temporada de lluvias,1049.0,Muy alta
+LEC-0422,Est. Altiplano,Invierno,1036.3,Muy alta
+LEC-0425,Est. Costa,Canícula,982.8,Muy baja
+LEC-0426,Est. Laguna,Temporada de lluvias,1006.7,Baja
+LEC-0427,Est. Manglar,Transición Otoño-Invierno,1041.4,Muy alta
+LEC-0428,Est. Selva,Otoño,1041.9,Muy alta
+LEC-0429,Est. Norte,Canícula,981.7,Muy baja
+LEC-0430,Est. Oriente,Otoño,1031.7,Alta
+LEC-0431,Est. Pradera,Transición Otoño-Invierno,980.7,Muy baja
+LEC-0432,Est. Oriente,Verano,1000.0,Baja
+LEC-0433,Est. Pradera,Transición Otoño-Invierno,993.9,Muy baja
+LEC-0434,Est. Oriente,Invierno,1023.2,Alta
+LEC-0435,Est. Manglar,Transición Primavera-Verano,1042.7,Muy alta
+LEC-0436,Est. Bosque,Temporada de lluvias,1038.9,Muy alta
+LEC-0437,Est. Norte,Verano,1032.8,Muy alta
+LEC-0438,Est. Bahía,Canícula,993.5,Muy baja
+LEC-0439,Est. Bosque,Otoño,1010.4,Normal
+LEC-0440,Est. Poniente,Otoño,1003.4,Baja
+LEC-0441,Est. Pradera,Transición Primavera-Verano,1014.6,Normal
+LEC-0442,Est. Bosque,Verano,977.7,Muy baja
+LEC-0443,Est. Volcán,Transición Primavera-Verano,1021.0,Normal
+LEC-0444,Est. Desierto,Transición Otoño-Invierno,988.5,Muy baja
+LEC-0445,Est. Desierto,Transición Otoño-Invierno,985.4,Muy baja
+LEC-0446,Est. Montaña,Transición Otoño-Invierno,1013.2,Normal
+LEC-0447,Est. Altiplano,Invierno,973.5,Muy baja
+LEC-0448,Est. Centro,Transición Otoño-Invierno,1008.8,Baja
+LEC-0449,Est. Manglar,Temporada de lluvias,990.2,Muy baja
+LEC-0450,Est. Península,Transición Primavera-Verano,1014.1,Normal
+LEC-0451,Est. Cañón,Canícula,1044.4,Muy alta
+LEC-0452,Est. Planicie,Canícula,1010.5,Normal
+LEC-0453,Est. Volcán,Canícula,990.9,Muy baja
+LEC-0454,Est. Sur,Verano,1043.7,Muy alta
+LEC-0455,Est. Valle,Invierno,1006.1,Baja
+LEC-0456,Est. Poniente,Transición Otoño-Invierno,1027.5,Alta
+LEC-0457,Est. Pradera,Canícula,1012.9,Normal
+LEC-0458,Est. Cañón,Otoño,1016.3,Normal
+LEC-0459,Est. Meseta,Otoño,984.1,Muy baja
+LEC-0460,Est. Bahía,Verano,1021.7,Alta
+LEC-0461,Est. Pradera,Transición Otoño-Invierno,1008.8,Baja
+LEC-0462,Est. Centro,Primavera,1038.6,Muy alta
+LEC-0463,Est. Laguna,Invierno,987.1,Muy baja
+LEC-0464,Est. Sierra,Invierno,1043.7,Muy alta
+LEC-0465,Est. Centro,Verano,978.7,Muy baja
+LEC-0466,Est. Norte,Otoño,968.2,Muy baja
+LEC-0467,Est. Bahía,Temporada de lluvias,993.2,Muy baja
+LEC-0468,Est. Desierto,Verano,1004.4,Baja
+LEC-0469,Est. Península,Canícula,1047.1,Muy alta
+LEC-0470,Est. Desierto,Temporada de lluvias,986.1,Muy baja
+LEC-0471,Est. Planicie,Invierno,974.2,Muy baja
+LEC-0472,Est. Laguna,Temporada de lluvias,1015.9,Normal
+LEC-0473,Est. Selva,Primavera,976.2,Muy baja
+LEC-0474,Est. Valle,Temporada de lluvias,1028.1,Alta
+LEC-0475,Est. Valle,Verano,1021.1,Alta
+LEC-0476,Est. Península,Primavera,972.6,Muy baja
+LEC-0477,Est. Río,Otoño,981.4,Muy baja
+LEC-0478,Est. Cañón,Transición Otoño-Invierno,969.2,Muy baja
+LEC-0479,Est. Costa,Canícula,990.1,Muy baja
+LEC-0480,Est. Costa,Transición Primavera-Verano,992.2,Muy baja
+LEC-0481,Est. Península,Invierno,1019.0,Normal
+LEC-0482,Est. Pradera,Transición Otoño-Invierno,1015.0,Normal
+LEC-0483,Est. Altiplano,Transición Primavera-Verano,983.4,Muy baja
+LEC-0484,Est. Laguna,Transición Otoño-Invierno,1040.0,Muy alta
+LEC-0485,Est. Sierra,Transición Otoño-Invierno,1015.4,Normal
+LEC-0486,Est. Costa,Invierno,1038.6,Muy alta
+LEC-0487,Est. Cañón,Transición Otoño-Invierno,1025.4,Alta
+LEC-0488,Est. Altiplano,Canícula,994.6,Muy baja
+LEC-0489,Est. Río,Primavera,1030.1,Alta
+LEC-0490,Est. Desierto,Transición Otoño-Invierno,992.9,Muy baja
+LEC-0491,Est. Cañón,Canícula,978.0,Muy baja
+LEC-0492,Est. Río,Canícula,1004.4,Baja
+LEC-0493,Est. Poniente,Canícula,1022.7,Alta
+LEC-0494,Est. Planicie,Transición Primavera-Verano,988.5,Muy baja
+LEC-0495,Est. Norte,Transición Otoño-Invierno,1027.8,Alta
+LEC-0496,Est. Bahía,Otoño,998.2,Baja
+LEC-0497,Est. Península,Otoño,973.2,Muy baja
+LEC-0498,Est. Oriente,Otoño,966.1,Muy baja
+LEC-0499,Est. Planicie,Verano,1004.1,Baja
+LEC-0500,Est. Valle,Invierno,1041.3,Muy alta
+LEC-0501,Est. Istmo,Verano,1022.4,Alta
+LEC-0502,Est. Península,Otoño,1012.3,Normal
+LEC-0503,Est. Selva,Otoño,989.4,Muy baja
+LEC-0504,Est. Costa,Temporada de lluvias,1021.7,Alta
+LEC-0505,Est. Volcán,Transición Otoño-Invierno,986.5,Muy baja
+LEC-0506,Est. Altiplano,Temporada de lluvias,1034.5,Muy alta
+LEC-0507,Est. Istmo,Invierno,978.7,Muy baja
+LEC-0508,Est. Oriente,Invierno,988.0,Muy baja
+LEC-0509,Est. Pradera,Temporada de lluvias,1031.8,Alta
+LEC-0510,Est. Costa,Transición Otoño-Invierno,1021.4,Alta
+LEC-0511,Est. Oriente,Transición Otoño-Invierno,969.5,Muy baja
+LEC-0512,Est. Cañón,Canícula,1012.5,Normal
+LEC-0513,Est. Selva,Primavera,1006.1,Baja
+LEC-0514,Est. Cañón,Primavera,1034.2,Muy alta
+LEC-0515,Est. Selva,Verano,996.3,Muy baja
+LEC-0516,Est. Pradera,Verano,1037.7,Muy alta
+LEC-0517,Est. Oriente,Transición Primavera-Verano,989.1,Muy baja
+LEC-0518,Est. Bosque,Temporada de lluvias,1011.5,Normal
+LEC-0519,Est. Norte,Transición Otoño-Invierno,1029.1,Alta
+LEC-0520,Est. Altiplano,Invierno,1010.1,Baja
+LEC-0521,Est. Bosque,Temporada de lluvias,1040.7,Muy alta
+LEC-0522,Est. Río,Invierno,972.6,Muy baja
+LEC-0523,Est. Oriente,Transición Primavera-Verano,1032.5,Muy alta
+LEC-0524,Est. Planicie,Primavera,1026.1,Alta
+LEC-0525,Est. Laguna,Verano,981.4,Muy baja
+LEC-0526,Est. Meseta,Invierno,1009.8,Baja
+LEC-0528,Est. Altiplano,Canícula,991.9,Muy baja
+LEC-0529,Est. Meseta,Otoño,1019.3,Normal
+LEC-0530,Est. Planicie,Transición Otoño-Invierno,992.6,Muy baja
+LEC-0531,Est. Sur,Primavera,1039.3,Muy alta
+LEC-0532,Est. Selva,Temporada de lluvias,1046.4,Muy alta
+LEC-0533,Est. Pradera,Transición Otoño-Invierno,1031.2,Alta
+LEC-0534,Est. Norte,Invierno,992.6,Muy baja
+LEC-0535,Est. Río,Verano,1024.2,Alta
+LEC-0536,Est. Laguna,Transición Otoño-Invierno,969.5,Muy baja
+LEC-0537,Est. Planicie,Verano,1037.3,Muy alta
+LEC-0538,Est. Montaña,Transición Primavera-Verano,1026.2,Alta
+LEC-0539,Est. Cañón,Primavera,982.1,Muy baja
+LEC-0540,Est. Cañón,Otoño,982.1,Muy baja
+LEC-0541,Est. Cañón,Temporada de lluvias,1043.3,Muy alta
+LEC-0543,Est. Manglar,Primavera,972.8,Muy baja
+LEC-0544,Est. Pradera,Primavera,966.2,Muy baja
+LEC-0545,Est. Península,Transición Primavera-Verano,1001.4,Baja
+LEC-0546,Est. Valle,Otoño,983.3,Muy baja
+LEC-0547,Est. Cañón,Primavera,1004.1,Baja
+LEC-0549,Est. Cañón,Canícula,976.7,Muy baja
+LEC-0550,Est. Costa,Transición Primavera-Verano,979.4,Muy baja
+LEC-0551,Est. Altiplano,Otoño,1033.5,Muy alta
+LEC-0552,Est. Sur,Invierno,969.6,Muy baja
+LEC-0553,Est. Península,Canícula,976.6,Muy baja
+LEC-0554,Est. Volcán,Primavera,1036.2,Muy alta
+LEC-0555,Est. Istmo,Transición Primavera-Verano,978.1,Muy baja
+LEC-0556,Est. Volcán,Otoño,1018.5,Normal
+LEC-0558,Est. Poniente,Invierno,976.3,Muy baja
+LEC-0559,Est. Altiplano,Verano,1013.3,Normal
+LEC-0560,Est. Planicie,Primavera,1033.4,Muy alta
+LEC-0562,Est. Planicie,Transición Otoño-Invierno,1032.0,Muy alta
+LEC-0563,Est. Centro,Verano,1000.0,Baja
+LEC-0564,Est. Istmo,Verano,981.7,Muy baja
+LEC-0565,Est. Laguna,Canícula,998.6,Baja
+LEC-0566,Est. Manglar,Temporada de lluvias,1007.5,Baja
+LEC-0567,Est. Selva,Transición Otoño-Invierno,1049.4,Muy alta
+LEC-0568,Est. Río,Canícula,1026.5,Alta
+LEC-0569,Est. Altiplano,Otoño,1001.4,Baja
+LEC-0570,Est. Volcán,Primavera,1032.5,Muy alta
+LEC-0571,Est. Meseta,Temporada de lluvias,1025.7,Alta
+LEC-0572,Est. Selva,Invierno,1032.4,Muy alta
+LEC-0573,Est. Manglar,Invierno,968.2,Muy baja
+LEC-0574,Est. Laguna,Temporada de lluvias,1039.9,Muy alta
+LEC-0575,Est. Selva,Primavera,1007.1,Baja
+LEC-0576,Est. Sierra,Canícula,988.5,Muy baja
+LEC-0577,Est. Planicie,Transición Otoño-Invierno,1006.1,Baja
+LEC-0578,Est. Cañón,Transición Primavera-Verano,1030.7,Alta
+LEC-0579,Est. Península,Verano,1023.4,Alta
+LEC-0580,Est. Altiplano,Transición Otoño-Invierno,984.7,Muy baja
+LEC-0581,Est. Desierto,Otoño,1029.5,Alta
+LEC-0582,Est. Sur,Verano,1003.7,Baja
+LEC-0583,Est. Manglar,Otoño,991.5,Muy baja
+LEC-0585,Est. Altiplano,Transición Otoño-Invierno,1009.0,Baja
+LEC-0586,Est. Altiplano,Verano,1038.9,Muy alta
+LEC-0587,Est. Planicie,Temporada de lluvias,969.6,Muy baja
+LEC-0588,Est. Valle,Temporada de lluvias,1022.5,Alta
+LEC-0589,Est. Bahía,Transición Otoño-Invierno,1004.4,Baja
+LEC-0590,Est. Planicie,Otoño,1012.0,Normal
+LEC-0591,Est. Oriente,Invierno,993.0,Muy baja
+LEC-0593,Est. Istmo,Primavera,985.8,Muy baja
+LEC-0594,Est. Istmo,Transición Otoño-Invierno,986.4,Muy baja
+LEC-0595,Est. Bosque,Invierno,1032.5,Muy alta
+LEC-0596,Est. Costa,Canícula,1025.6,Alta
+LEC-0597,Est. Cañón,Canícula,1029.8,Alta
+LEC-0598,Est. Costa,Temporada de lluvias,972.9,Muy baja
+LEC-0599,Est. Montaña,Verano,983.5,Muy baja
+LEC-0600,Est. Altiplano,Verano,1032.4,Muy alta
+LEC-0601,Est. Volcán,Canícula,1043.5,Muy alta
+LEC-0602,Est. Desierto,Temporada de lluvias,1003.0,Baja
+LEC-0603,Est. Sur,Invierno,1044.9,Muy alta
+LEC-0604,Est. Bahía,Otoño,999.3,Baja
+LEC-0605,Est. Norte,Otoño,1047.3,Muy alta
+LEC-0606,Est. Valle,Invierno,1003.0,Baja
+LEC-0607,Est. Península,Transición Otoño-Invierno,1025.7,Alta
+LEC-0608,Est. Centro,Transición Otoño-Invierno,986.5,Muy baja
+LEC-0609,Est. Norte,Transición Primavera-Verano,1023.5,Alta
+LEC-0610,Est. Altiplano,Otoño,1007.7,Baja
+LEC-0611,Est. Montaña,Transición Primavera-Verano,1048.8,Muy alta
+LEC-0612,Est. Istmo,Transición Otoño-Invierno,1033.4,Muy alta
+LEC-0613,Est. Península,Transición Otoño-Invierno,1031.2,Alta
+LEC-0614,Est. Selva,Invierno,969.8,Muy baja
+LEC-0615,Est. Norte,Primavera,990.2,Muy baja
+LEC-0616,Est. Centro,Verano,1046.4,Muy alta
+LEC-0617,Est. Oriente,Canícula,1037.6,Muy alta
+LEC-0618,Est. Sierra,Primavera,975.3,Muy baja
+LEC-0619,Est. Desierto,Primavera,1041.3,Muy alta
+LEC-0620,Est. Sur,Temporada de lluvias,1033.3,Muy alta
+LEC-0621,Est. Altiplano,Primavera,1009.9,Baja
+LEC-0622,Est. Bahía,Invierno,970.9,Muy baja
+LEC-0623,Est. Valle,Transición Primavera-Verano,972.5,Muy baja
+LEC-0624,Est. Volcán,Transición Otoño-Invierno,1001.0,Baja
+LEC-0625,Est. Selva,Otoño,971.7,Muy baja
+LEC-0626,Est. Altiplano,Primavera,1047.4,Muy alta
+LEC-0627,Est. Pradera,Otoño,991.9,Muy baja
+LEC-0628,Est. Península,Transición Primavera-Verano,1028.2,Alta
+LEC-0630,Est. Planicie,Transición Primavera-Verano,981.7,Muy baja
+LEC-0631,Est. Oriente,Verano,992.6,Muy baja
+LEC-0632,Est. Desierto,Verano,1019.3,Normal
+LEC-0633,Est. Cañón,Canícula,1028.1,Alta
+LEC-0634,Est. Montaña,Canícula,1009.5,Baja
+LEC-0635,Est. Bosque,Transición Otoño-Invierno,1049.6,Muy alta
+LEC-0636,Est. Oriente,Otoño,972.6,Muy baja
+LEC-0637,Est. Centro,Transición Otoño-Invierno,1005.1,Baja
+LEC-0638,Est. Manglar,Verano,1011.5,Normal
+LEC-0639,Est. Meseta,Otoño,1000.7,Baja
+LEC-0640,Est. Montaña,Otoño,996.3,Muy baja
+LEC-0641,Est. Norte,Transición Otoño-Invierno,1046.5,Muy alta
+LEC-0643,Est. Istmo,Canícula,1008.8,Baja
+LEC-0644,Est. Pradera,Canícula,999.3,Baja
+LEC-0645,Est. Centro,Otoño,995.9,Muy baja
+LEC-0648,Est. Península,Verano,986.8,Muy baja
+LEC-0649,Est. Pradera,Otoño,1049.1,Muy alta
+LEC-0650,Est. Península,Invierno,1038.3,Muy alta
+LEC-0651,Est. Meseta,Transición Otoño-Invierno,972.6,Muy baja
+LEC-0652,Est. Planicie,Verano,966.1,Muy baja
+LEC-0653,Est. Sierra,Canícula,1001.7,Baja
+LEC-0654,Est. Montaña,Verano,1000.3,Baja
+LEC-0655,Est. Altiplano,Otoño,993.6,Muy baja
+LEC-0657,Est. Península,Temporada de lluvias,1019.5,Normal
+LEC-0658,Est. Sur,Canícula,966.7,Muy baja
+LEC-0659,Est. Sur,Transición Primavera-Verano,970.5,Muy baja
+LEC-0660,Est. Centro,Transición Primavera-Verano,989.5,Muy baja
+LEC-0663,Est. Valle,Transición Otoño-Invierno,995.9,Muy baja
+LEC-0664,Est. Pradera,Temporada de lluvias,971.2,Muy baja
+LEC-0666,Est. Montaña,Invierno,1033.9,Muy alta
+LEC-0667,Est. Poniente,Otoño,1039.5,Muy alta
+LEC-0668,Est. Sur,Transición Otoño-Invierno,989.2,Muy baja
+LEC-0669,Est. Meseta,Canícula,1001.1,Baja
+LEC-0670,Est. Montaña,Otoño,1044.2,Muy alta
+LEC-0671,Est. Manglar,Primavera,1000.4,Baja
+LEC-0673,Est. Cañón,Verano,978.3,Muy baja
+LEC-0674,Est. Sierra,Otoño,1010.8,Normal
+LEC-0675,Est. Montaña,Primavera,972.9,Muy baja
+LEC-0676,Est. Costa,Transición Primavera-Verano,969.5,Muy baja
+LEC-0677,Est. Río,Verano,993.9,Muy baja
+LEC-0678,Est. Oriente,Verano,978.7,Muy baja
+LEC-0679,Est. Cañón,Primavera,998.3,Baja
+LEC-0680,Est. Oriente,Canícula,1007.8,Baja
+LEC-0681,Est. Sierra,Otoño,985.4,Muy baja
+LEC-0682,Est. Pradera,Otoño,1038.3,Muy alta
+LEC-0683,Est. Desierto,Primavera,1047.1,Muy alta
+LEC-0684,Est. Planicie,Verano,998.6,Baja
+LEC-0685,Est. Manglar,Verano,1007.7,Baja
+LEC-0686,Est. Río,Transición Primavera-Verano,1017.3,Normal
+LEC-0687,Est. Sierra,Otoño,982.7,Muy baja
+LEC-0688,Est. Cañón,Transición Otoño-Invierno,1049.0,Muy alta
+LEC-0689,Est. Pradera,Primavera,1005.9,Baja
+LEC-0690,Est. Valle,Invierno,1039.5,Muy alta
+LEC-0691,Est. Meseta,Verano,1028.3,Alta
+LEC-0692,Est. Centro,Canícula,1032.5,Muy alta
+LEC-0693,Est. Península,Invierno,1025.7,Alta
+LEC-0695,Est. Sierra,Transición Otoño-Invierno,1001.2,Baja
+LEC-0696,Est. Río,Primavera,972.2,Muy baja
+LEC-0697,Est. Poniente,Invierno,1035.2,Muy alta
+LEC-0698,Est. Manglar,Transición Otoño-Invierno,1008.1,Baja
+LEC-0699,Est. Laguna,Verano,997.1,Muy baja
+LEC-0700,Est. Montaña,Invierno,1035.4,Muy alta
+LEC-0701,Est. Altiplano,Temporada de lluvias,974.6,Muy baja
+LEC-0702,Est. Bosque,Primavera,1043.0,Muy alta
+LEC-0703,Est. Norte,Transición Primavera-Verano,1028.1,Alta
+LEC-0704,Est. Oriente,Transición Primavera-Verano,984.1,Muy baja
+LEC-0705,Est. Sur,Invierno,991.2,Muy baja
+LEC-0706,Est. Bosque,Canícula,1048.2,Muy alta
+LEC-0707,Est. Sierra,Otoño,1031.6,Alta
+LEC-0708,Est. Bosque,Transición Primavera-Verano,1015.9,Normal
+LEC-0709,Est. Laguna,Invierno,1007.3,Baja
+LEC-0710,Est. Costa,Verano,1039.0,Muy alta
+LEC-0711,Est. Sierra,Otoño,1042.0,Muy alta
+LEC-0713,Est. Istmo,Invierno,1043.7,Muy alta
+LEC-0714,Est. Oriente,Transición Otoño-Invierno,996.8,Muy baja
+LEC-0715,Est. Poniente,Invierno,1048.5,Muy alta
+LEC-0716,Est. Costa,Otoño,1028.1,Alta
+LEC-0717,Est. Istmo,Invierno,1033.7,Muy alta
+LEC-0718,Est. Norte,Temporada de lluvias,1017.6,Normal
+LEC-0719,Est. Selva,Primavera,989.7,Muy baja
+LEC-0720,Est. Meseta,Primavera,1030.1,Alta
+LEC-0721,Est. Poniente,Verano,1013.1,Normal
+LEC-0722,Est. Selva,Primavera,982.1,Muy baja
+LEC-0723,Est. Istmo,Transición Otoño-Invierno,1049.8,Muy alta
+LEC-0724,Est. Selva,Primavera,1046.1,Muy alta
+LEC-0725,Est. Laguna,Transición Primavera-Verano,1021.0,Normal
+LEC-0726,Est. Altiplano,Otoño,1031.6,Alta
+LEC-0727,Est. Poniente,Primavera,1028.8,Alta
+LEC-0728,Est. Norte,Invierno,977.7,Muy baja
+LEC-0729,Est. Río,Transición Otoño-Invierno,995.6,Muy baja
+LEC-0730,Est. Desierto,Temporada de lluvias,1038.6,Muy alta
+LEC-0731,Est. Altiplano,Invierno,977.6,Muy baja
+LEC-0732,Est. Poniente,Temporada de lluvias,968.8,Muy baja
+LEC-0733,Est. Río,Primavera,1048.4,Muy alta
+LEC-0734,Est. Laguna,Transición Otoño-Invierno,1045.6,Muy alta
+LEC-0735,Est. Norte,Invierno,1001.7,Baja
+LEC-0736,Est. Oriente,Transición Primavera-Verano,1013.0,Normal
+LEC-0737,Est. Laguna,Otoño,1029.8,Alta
+LEC-0738,Est. Oriente,Verano,1016.3,Normal
+LEC-0739,Est. Península,Otoño,1014.5,Normal
+LEC-0740,Est. Sierra,Transición Otoño-Invierno,992.9,Muy baja
+LEC-0741,Est. Centro,Canícula,1001.0,Baja
+LEC-0742,Est. Laguna,Transición Primavera-Verano,1030.1,Alta
+LEC-0743,Est. Sur,Primavera,1019.7,Normal
+LEC-0744,Est. Manglar,Otoño,988.2,Muy baja
+LEC-0745,Est. Sur,Transición Primavera-Verano,990.9,Muy baja
+LEC-0746,Est. Poniente,Primavera,1013.5,Normal
+LEC-0747,Est. Planicie,Invierno,996.0,Muy baja
+LEC-0748,Est. Planicie,Temporada de lluvias,1032.2,Muy alta
+LEC-0749,Est. Meseta,Temporada de lluvias,998.0,Baja
+LEC-0750,Est. Bahía,Transición Otoño-Invierno,1003.1,Baja
+LEC-0751,Est. Península,Temporada de lluvias,1032.8,Muy alta
+LEC-0752,Est. Desierto,Verano,986.6,Muy baja
+LEC-0753,Est. Montaña,Canícula,999.3,Baja
+LEC-0754,Est. Bosque,Verano,1017.3,Normal
+LEC-0755,Est. Desierto,Otoño,1029.9,Alta
+LEC-0756,Est. Cañón,Temporada de lluvias,970.5,Muy baja
+LEC-0757,Est. Bahía,Verano,1030.1,Alta
+LEC-0758,Est. Pradera,Verano,1011.8,Normal
+LEC-0759,Est. Sierra,Transición Primavera-Verano,987.1,Muy baja
+LEC-0760,Est. Istmo,Primavera,1028.4,Alta
+LEC-0761,Est. Sierra,Primavera,1023.1,Alta
+LEC-0762,Est. Bahía,Verano,1035.0,Muy alta
+LEC-0763,Est. Desierto,Verano,1041.7,Muy alta
+LEC-0764,Est. Pradera,Temporada de lluvias,979.4,Muy baja
+LEC-0765,Est. Altiplano,Temporada de lluvias,972.9,Muy baja
+LEC-0766,Est. Sur,Temporada de lluvias,995.3,Muy baja
+LEC-0767,Est. Oriente,Primavera,1043.5,Muy alta
+LEC-0768,Est. Centro,Verano,973.2,Muy baja
+LEC-0769,Est. Manglar,Temporada de lluvias,972.9,Muy baja
+LEC-0770,Est. Manglar,Invierno,1024.7,Alta
+LEC-0771,Est. Desierto,Verano,1009.4,Baja
+LEC-0772,Est. Sierra,Otoño,1023.3,Alta
+LEC-0774,Est. Laguna,Transición Primavera-Verano,995.6,Muy baja
+LEC-0775,Est. Selva,Verano,1019.0,Normal
+LEC-0776,Est. Oriente,Temporada de lluvias,1004.7,Baja
+LEC-0777,Est. Laguna,Transición Primavera-Verano,1023.7,Alta
+LEC-0778,Est. Bosque,Otoño,1001.5,Baja
+LEC-0779,Est. Meseta,Otoño,978.2,Muy baja
+LEC-0780,Est. Volcán,Transición Otoño-Invierno,977.0,Muy baja
+LEC-0781,Est. Bahía,Primavera,1037.2,Muy alta
+LEC-0783,Est. Cañón,Otoño,1026.1,Alta
+LEC-0785,Est. Montaña,Primavera,1038.9,Muy alta
+LEC-0786,Est. Bosque,Transición Primavera-Verano,1022.0,Alta
+LEC-0787,Est. Pradera,Transición Otoño-Invierno,1037.3,Muy alta
+LEC-0788,Est. Río,Canícula,1037.6,Muy alta
+LEC-0789,Est. Selva,Canícula,988.8,Muy baja
+LEC-0790,Est. Planicie,Otoño,973.7,Muy baja
+LEC-0791,Est. Sur,Otoño,978.7,Muy baja
+LEC-0792,Est. Montaña,Verano,973.9,Muy baja
+LEC-0793,Est. Río,Verano,989.5,Muy baja
+LEC-0794,Est. Cañón,Verano,1002.4,Baja
+LEC-0795,Est. Valle,Invierno,1034.8,Muy alta
+LEC-0796,Est. Bosque,Otoño,1018.1,Normal
+LEC-0798,Est. Cañón,Verano,983.8,Muy baja
+LEC-0799,Est. Centro,Verano,1022.4,Alta
+LEC-0800,Est. Cañón,Primavera,986.8,Muy baja
+LEC-0801,Est. Planicie,Invierno,1008.8,Baja
+LEC-0802,Est. Sur,Temporada de lluvias,1025.7,Alta
+LEC-0803,Est. Meseta,Canícula,965.7,Muy baja
+LEC-0804,Est. Norte,Otoño,988.8,Muy baja
+LEC-0805,Est. Valle,Primavera,996.6,Muy baja
+LEC-0806,Est. Península,Transición Primavera-Verano,1033.9,Muy alta
+LEC-0808,Est. Desierto,Transición Primavera-Verano,993.2,Muy baja
+LEC-0809,Est. Río,Temporada de lluvias,995.4,Muy baja
+LEC-0810,Est. Manglar,Canícula,972.2,Muy baja
+LEC-0811,Est. Centro,Transición Otoño-Invierno,1013.9,Normal
+LEC-0812,Est. Costa,Primavera,979.0,Muy baja
+LEC-0813,Est. Meseta,Transición Otoño-Invierno,1006.8,Baja
+LEC-0814,Est. Altiplano,Invierno,984.9,Muy baja
+LEC-0815,Est. Cañón,Invierno,1011.0,Normal
+LEC-0816,Est. Bahía,Otoño,969.9,Muy baja
+LEC-0817,Est. Norte,Temporada de lluvias,966.5,Muy baja
+LEC-0819,Est. Valle,Primavera,1048.1,Muy alta
+LEC-0820,Est. Altiplano,Otoño,968.2,Muy baja
+LEC-0821,Est. Centro,Invierno,996.1,Muy baja
+LEC-0822,Est. Bahía,Primavera,1015.6,Normal
+LEC-0823,Est. Meseta,Temporada de lluvias,1025.1,Alta
+LEC-0824,Est. Centro,Temporada de lluvias,1018.5,Normal
+LEC-0825,Est. Pradera,Temporada de lluvias,982.9,Muy baja
+LEC-0826,Est. Río,Temporada de lluvias,981.0,Muy baja
+LEC-0827,Est. Bosque,Temporada de lluvias,1000.0,Baja
+LEC-0828,Est. Planicie,Transición Otoño-Invierno,1019.0,Normal
+LEC-0829,Est. Norte,Transición Otoño-Invierno,1027.1,Alta
+LEC-0830,Est. Istmo,Primavera,1008.1,Baja
+LEC-0831,Est. Centro,Verano,983.4,Muy baja
+LEC-0832,Est. Centro,Transición Primavera-Verano,981.0,Muy baja
+LEC-0833,Est. Centro,Temporada de lluvias,997.1,Muy baja
+LEC-0834,Est. Selva,Temporada de lluvias,1031.2,Alta
+LEC-0835,Est. Valle,Invierno,991.4,Muy baja
+LEC-0836,Est. Sur,Transición Primavera-Verano,980.4,Muy baja
+LEC-0837,Est. Sur,Transición Primavera-Verano,986.5,Muy baja
+LEC-0838,Est. Selva,Verano,1032.9,Muy alta
+LEC-0839,Est. Altiplano,Temporada de lluvias,1004.6,Baja
+LEC-0840,Est. Laguna,Otoño,1038.3,Muy alta
+LEC-0841,Est. Altiplano,Verano,1015.9,Normal
+LEC-0842,Est. Volcán,Otoño,1018.2,Normal
+LEC-0843,Est. Montaña,Transición Primavera-Verano,1025.6,Alta
+LEC-0844,Est. Poniente,Temporada de lluvias,967.5,Muy baja
+LEC-0845,Est. Desierto,Otoño,995.2,Muy baja
+LEC-0846,Est. Bosque,Temporada de lluvias,985.3,Muy baja
+LEC-0847,Est. Sur,Transición Otoño-Invierno,1040.8,Muy alta
+LEC-0848,Est. Altiplano,Temporada de lluvias,1004.1,Baja
+LEC-0850,Est. Oriente,Primavera,1011.2,Normal
+LEC-0851,Est. Meseta,Invierno,1028.5,Alta
+LEC-0852,Est. Valle,Canícula,979.5,Muy baja
+LEC-0853,Est. Bahía,Verano,1014.6,Normal
+LEC-0854,Est. Península,Invierno,1038.1,Muy alta
+LEC-0855,Est. Bosque,Invierno,1028.8,Alta
+LEC-0857,Est. Montaña,Temporada de lluvias,1049.0,Muy alta
+LEC-0858,Est. Oriente,Verano,1004.4,Baja
+LEC-0859,Est. Volcán,Canícula,1029.9,Alta
+LEC-0861,Est. Planicie,Transición Primavera-Verano,1038.3,Muy alta
+LEC-0863,Est. Planicie,Transición Primavera-Verano,1033.2,Muy alta
+LEC-0864,Est. Península,Otoño,1034.5,Muy alta
+LEC-0865,Est. Costa,Otoño,977.3,Muy baja
+LEC-0867,Est. Oriente,Transición Otoño-Invierno,1014.6,Normal
+LEC-0868,Est. Río,Otoño,1040.2,Muy alta
+LEC-0869,Est. Norte,Transición Otoño-Invierno,998.0,Baja
+LEC-0870,Est. Meseta,Invierno,1005.4,Baja
+LEC-0871,Est. Volcán,Primavera,1047.7,Muy alta
+LEC-0872,Est. Río,Canícula,984.1,Muy baja
+LEC-0873,Est. Meseta,Temporada de lluvias,1027.1,Alta
+LEC-0874,Est. Cañón,Temporada de lluvias,1004.4,Baja
+LEC-0875,Est. Poniente,Transición Otoño-Invierno,1034.2,Muy alta
+LEC-0876,Est. Desierto,Otoño,1048.8,Muy alta
+LEC-0877,Est. Valle,Canícula,981.0,Muy baja
+LEC-0878,Est. Río,Transición Otoño-Invierno,978.8,Muy baja
+LEC-0879,Est. Río,Canícula,984.2,Muy baja
+LEC-0880,Est. Costa,Invierno,1039.3,Muy alta
+LEC-0881,Est. Costa,Temporada de lluvias,1038.3,Muy alta
+LEC-0882,Est. Bahía,Invierno,1001.5,Baja
+LEC-0883,Est. Meseta,Transición Otoño-Invierno,967.5,Muy baja
+LEC-0884,Est. Meseta,Temporada de lluvias,998.9,Baja
+LEC-0885,Est. Pradera,Otoño,1048.1,Muy alta
+LEC-0886,Est. Costa,Invierno,1018.6,Normal
+LEC-0888,Est. Istmo,Transición Primavera-Verano,976.3,Muy baja
+LEC-0889,Est. Volcán,Temporada de lluvias,982.8,Muy baja
+LEC-0890,Est. Norte,Transición Otoño-Invierno,997.6,Baja
+LEC-0891,Est. Istmo,Primavera,1004.8,Baja
+LEC-0892,Est. Volcán,Canícula,1035.6,Muy alta
+LEC-0893,Est. Bosque,Otoño,1034.2,Muy alta
+LEC-0894,Est. Volcán,Invierno,966.3,Muy baja
+LEC-0895,Est. Laguna,Otoño,966.9,Muy baja
+LEC-0896,Est. Desierto,Canícula,1009.2,Baja
+LEC-0897,Est. Manglar,Temporada de lluvias,971.6,Muy baja
+LEC-0898,Est. Sierra,Verano,1029.7,Alta
+LEC-0899,Est. Bosque,Invierno,973.2,Muy baja
+LEC-0900,Est. Río,Verano,999.0,Baja
+LEC-0901,Est. Laguna,Verano,982.1,Muy baja
+LEC-0902,Est. Poniente,Primavera,999.0,Baja
+LEC-0903,Est. Manglar,Invierno,1028.1,Alta
+LEC-0904,Est. Costa,Canícula,1028.8,Alta
+LEC-0905,Est. Laguna,Transición Otoño-Invierno,1021.0,Normal
+LEC-0906,Est. Río,Canícula,991.2,Muy baja
+LEC-0907,Est. Volcán,Transición Primavera-Verano,973.8,Muy baja
+LEC-0908,Est. Norte,Otoño,995.6,Muy baja
+LEC-0909,Est. Poniente,Primavera,979.4,Muy baja
+LEC-0911,Est. Cañón,Otoño,996.3,Muy baja
+LEC-0912,Est. Planicie,Primavera,998.6,Baja
+LEC-0913,Est. Desierto,Otoño,975.1,Muy baja
+LEC-0914,Est. Bahía,Transición Primavera-Verano,986.5,Muy baja
+LEC-0915,Est. Desierto,Transición Primavera-Verano,1035.6,Muy alta
+LEC-0916,Est. Centro,Transición Primavera-Verano,1007.9,Baja
+LEC-0917,Est. Selva,Canícula,1037.9,Muy alta
+LEC-0921,Est. Bosque,Canícula,1009.1,Baja
+LEC-0922,Est. Centro,Canícula,988.7,Muy baja
+LEC-0923,Est. Sierra,Canícula,1045.0,Muy alta
+LEC-0924,Est. Planicie,Transición Otoño-Invierno,988.9,Muy baja
+LEC-0926,Est. Bosque,Invierno,1001.7,Baja
+LEC-0927,Est. Poniente,Canícula,992.6,Muy baja
+LEC-0928,Est. Valle,Otoño,1022.3,Alta
+LEC-0929,Est. Sierra,Transición Otoño-Invierno,966.4,Muy baja
+LEC-0930,Est. Costa,Verano,1009.1,Baja
+LEC-0932,Est. Norte,Temporada de lluvias,968.5,Muy baja
+LEC-0933,Est. Desierto,Otoño,1048.1,Muy alta
+LEC-0934,Est. Istmo,Otoño,1030.1,Alta
+LEC-0936,Est. Valle,Primavera,1013.5,Normal
+LEC-0937,Est. Selva,Transición Otoño-Invierno,1018.2,Normal
+LEC-0938,Est. Istmo,Transición Primavera-Verano,1031.2,Alta
+LEC-0940,Est. Montaña,Temporada de lluvias,965.2,Muy baja
+LEC-0941,Est. Cañón,Transición Otoño-Invierno,978.3,Muy baja
+LEC-0942,Est. Sur,Otoño,1003.0,Baja
+LEC-0943,Est. Planicie,Temporada de lluvias,1041.9,Muy alta
+LEC-0945,Est. Sierra,Temporada de lluvias,1016.6,Normal
+LEC-0946,Est. Volcán,Invierno,1009.8,Baja
+LEC-0947,Est. Pradera,Verano,1033.5,Muy alta
+LEC-0949,Est. Volcán,Primavera,988.3,Muy baja
+LEC-0950,Est. Volcán,Transición Primavera-Verano,998.0,Baja
+LEC-0951,Est. Sierra,Verano,1004.0,Baja
+LEC-0952,Est. Bosque,Transición Otoño-Invierno,985.0,Muy baja
+LEC-0953,Est. Poniente,Otoño,973.6,Muy baja
+LEC-0954,Est. Oriente,Primavera,980.7,Muy baja
+LEC-0955,Est. Bosque,Canícula,992.9,Muy baja
+LEC-0957,Est. Volcán,Transición Otoño-Invierno,1016.0,Normal
+LEC-0958,Est. Valle,Transición Primavera-Verano,979.7,Muy baja
+LEC-0959,Est. Sur,Otoño,1003.4,Baja
+LEC-0960,Est. Valle,Temporada de lluvias,1048.6,Muy alta
+LEC-0961,Est. Sierra,Otoño,1021.3,Alta
+LEC-0962,Est. Volcán,Canícula,998.2,Baja
+LEC-0963,Est. Oriente,Otoño,1039.8,Muy alta
+LEC-0965,Est. Meseta,Verano,1041.7,Muy alta
+LEC-0966,Est. Sierra,Canícula,969.2,Muy baja
+LEC-0967,Est. Desierto,Transición Primavera-Verano,1014.9,Normal
+LEC-0968,Est. Poniente,Invierno,1022.8,Alta
+LEC-0969,Est. Centro,Transición Otoño-Invierno,973.5,Muy baja
+LEC-0970,Est. Valle,Primavera,1006.8,Baja
+LEC-0971,Est. Sierra,Transición Otoño-Invierno,987.5,Muy baja
+LEC-0973,Est. Volcán,Verano,981.1,Muy baja
+LEC-0974,Est. Poniente,Primavera,972.9,Muy baja
+LEC-0975,Est. Río,Verano,995.4,Muy baja
+LEC-0977,Est. Montaña,Invierno,1000.7,Baja
+LEC-0979,Est. Cañón,Invierno,1016.4,Normal
+LEC-0980,Est. Volcán,Transición Otoño-Invierno,1033.9,Muy alta
+LEC-0981,Est. Manglar,Otoño,969.9,Muy baja
+LEC-0982,Est. Bahía,Canícula,1001.4,Baja
+LEC-0983,Est. Península,Canícula,986.1,Muy baja
+LEC-0985,Est. Valle,Invierno,990.5,Muy baja
+LEC-0987,Est. Sur,Invierno,1027.8,Alta
+LEC-0988,Est. Centro,Primavera,977.3,Muy baja
+LEC-0989,Est. Oriente,Verano,971.6,Muy baja
+LEC-0990,Est. Sur,Canícula,1005.4,Baja
+LEC-0991,Est. Selva,Verano,969.5,Muy baja
+LEC-0992,Est. Poniente,Primavera,967.3,Muy baja
+LEC-0993,Est. Poniente,Transición Otoño-Invierno,1032.2,Muy alta
+LEC-0994,Est. Istmo,Verano,1047.1,Muy alta
+LEC-0995,Est. Sur,Transición Otoño-Invierno,1036.3,Muy alta
+LEC-0996,Est. Montaña,Transición Primavera-Verano,1030.8,Alta
+LEC-0997,Est. Península,Primavera,1005.1,Baja
+LEC-0998,Est. Costa,Transición Otoño-Invierno,1035.9,Muy alta
+LEC-0999,Est. Bosque,Canícula,1027.9,Alta
+LEC-1000,Est. Cañón,Transición Primavera-Verano,992.9,Muy baja
