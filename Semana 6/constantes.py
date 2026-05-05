@@ -1,0 +1,4 @@
+
+DEPARTAMENTOS_VALIDOS = ['VEN', 'ADM', 'TEC', 'LOG', 'RHH']
+
+SERIES_VALIDAS = ['A', 'B', 'C', 'D', 'E']
