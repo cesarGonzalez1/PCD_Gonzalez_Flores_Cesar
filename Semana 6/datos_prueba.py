@@ -1,11 +1,6 @@
-# datos_prueba.py
-# Datos de prueba y funciones de visualización de resultados
 
 from typing import Dict
 
-# ---------------------------------------------------------------------------
-# Datos de prueba (exactamente los del enunciado)
-# ---------------------------------------------------------------------------
 CODIGOS_PRUEBA = [
     # Productos
     "TEC-0001-MX",          # Válido
@@ -42,12 +37,6 @@ CODIGOS_PRUEBA = [
     "XXX-1234",              # Desconocido
     "RANDOM-CODE",           # Desconocido
 ]
-
-
-# ---------------------------------------------------------------------------
-# Funciones de visualización
-# ---------------------------------------------------------------------------
-
 def mostrar_resultado(resultado: Dict) -> None:
     """Muestra el resultado de validación de un código de forma legible."""
     estado = "✓" if resultado["valido"] else "✗"
