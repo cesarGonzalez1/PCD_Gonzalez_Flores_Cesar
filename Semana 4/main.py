@@ -9,10 +9,7 @@ ARCHIVO_REPORTE = "outputs/reporte_inventario.csv"
 
 
 def crear_productos(datos_raw):
-    """
-    Convierte lista de diccionarios en objetos Producto.
-    Ignora registros invalidos.
-    """
+    
     productos = []
     
     for datos in datos_raw:
@@ -55,41 +52,19 @@ def ordenar_por_faltantes(productos):
 
 
 def main():
-    print("=" * 50)
-    print("SISTEMA DE INVENTARIO - Reporte de Reorden")
-    print("=" * 50)
-    
-    # 1. Leer datos
-    print(f"\nLeyendo inventario de: {ARCHIVO_INVENTARIO}")
-    datos_raw = leer_inventario(ARCHIVO_INVENTARIO)
-    print(f"Registros leidos: {len(datos_raw)}")
-    
-    # 2. Crear objetos Producto
-    productos = crear_productos(datos_raw)
-    print(f"Productos validos: {len(productos)}")
-    
-    # 3. Filtrar los que necesitan reorden
-    necesitan_reorden = filtrar_necesitan_reorden(productos)
-    print(f"Productos que necesitan reorden: {len(necesitan_reorden)}")
-    
-    # 4. Ordenar por unidades faltantes
-    necesitan_reorden = ordenar_por_faltantes(necesitan_reorden)
-    
-    # 5. Mostrar resumen
-    print("\n" + "-" * 50)
-    print("PRODUCTOS QUE NECESITAN REORDEN:")
-    print("-" * 50)
-    for p in necesitan_reorden:
-        print(p)
-    
-    # 6. Escribir reporte
-    escribir_reporte(necesitan_reorden, ARCHIVO_REPORTE)
-    print(f"\nReporte guardado en: {ARCHIVO_REPORTE}")
-    
-    print("\n" + "=" * 50)
-    print("Proceso completado exitosamente")
-    print("=" * 50)
 
+    datos = leer_inventario(ARCHIVO_INVENTARIO)
+
+    productos = crear_productos(datos)
+
+    reorden = filtrar_necesitan_reorden(productos)
+
+    reorden = ordenar_por_faltantes(reorden)
+
+    for p in reorden:
+        print(p)
+
+    escribir_reporte(reorden, ARCHIVO_REPORTE)
 
 if __name__ == "__main__":
     main()
